@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us - Waste2Value</title>
+    <link rel="stylesheet" href="./css/faq.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="icon" href="images/Waste2Value_logo.ico" type="image/x-icon">
+    <link href="https://fonts.googleapis.com/css2?family=Kalam:wght@300;400;700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;1,100;1,200;1,300;1,400;1,500;1,600&display=swap" rel="stylesheet">
+    <script src="https://apis.google.com/js/platform.js" async defer></script>
+    <script src="https://cdn.jsdelivr.net/gh/cferdinandi/smooth-scroll/dist/smooth-scroll.polyfills.min.js"></script>
+</head>
+
+<body>
+    <header>
+        <h1><a href="home.html">Waste2Value</a></h1>
+        <nav>
+            <ul>
+                <li><a href="home.html">Home</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="contact.html">Contact</a></li>
+                <li><a href="faq.html">FAQ</a></li>
+                <li class="auth-buttons">
+                    <a href="index.html"><button id="loginButton" onclick="openLogin()">Login</button></a>
+                </li>
+            </ul>
+            <button id="toggleNavBtn">&#9776; Menu</button>
+        </nav>
+    </header>
+    
+    <div class="faq-container">
+        <h2>Frequently Asked Questions</h2>
+
+        <div class="faq-tiles">
+            <div class="tile">
+                <p class="tile_text">Discover insights into Waste2Value's mission to transform waste into valuable resources. Below, you'll find answers to commonly asked questions about our initiatives and impact.</p>
+            </div>
+
+            <div class="tile">
+                <img src="images/faq.png" alt="FAQ_img">
+            </div>  
+        </div>
+
+        <div class="faq-item">
+            <div class="question" onclick="toggleAnswer(this)">
+                <h3 class="question">What types of waste materials does Waste2Value focus on transforming into valuable resources?</h3>
+                <span class="toggle">+</span>
+            </div>
+            <p class="answer">Waste2Value targets a variety of waste materials, including plastic, organic waste, and electronic waste, transforming them into valuable resources through innovative recycling and upcycling processes.</p>
+        </div>
+        
+        <hr class="divider">
+        
+        <div class="faq-item">
+            <div class="question" onclick="toggleAnswer(this)">
+                <h3 class="question">How does Waste2Value collaborate with local governments and organizations?</h3>
+                <span class="toggle">+</span>
+            </div>
+            <p class="answer">Waste2Value works closely with local governments and organizations to implement effective waste management solutions, create awareness campaigns, and support community-led environmental initiatives.</p>
+        </div>
+        
+        <hr class="divider">
+        
+        <div class="faq-item">
+            <div class="question" onclick="toggleAnswer(this)">
+                <h3 class="question">What technologies does Waste2Value use to ensure efficient waste processing?</h3>
+                <span class="toggle">+</span>
+            </div>
+            <p class="answer">Waste2Value employs advanced technologies such as AI-driven sorting systems, biodegradable material production, and renewable energy solutions to optimize waste processing and resource recovery.</p>
+        </div>
+        
+        <hr class="divider">
+        
+        <div class="faq-item">
+            <div class="question" onclick="toggleAnswer(this)">
+                <h3 class="question">How does Waste2Value educate communities about sustainable waste practices?</h3>
+                <span class="toggle">+</span>
+            </div>
+            <p class="answer">Waste2Value conducts workshops, educational programs, and community events to teach sustainable waste practices, emphasizing the importance of recycling, composting, and reducing single-use plastics.</p>
+        </div>
+        
+        <hr class="divider">
+        
+        <div class="faq-item">
+            <div class="question" onclick="toggleAnswer(this)">
+                <h3 class="question">What impact has Waste2Value had on local ecosystems and biodiversity?</h3>
+                <span class="toggle">+</span>
+            </div>
+            <p class="answer">Waste2Value has significantly contributed to local ecosystems and biodiversity by reducing waste pollution, promoting reforestation projects, and creating habitats for wildlife through sustainable land management practices.</p>
+        </div>
+        
+        <hr class="divider">
+        
+        <div class="faq-item">
+            <div class="question" onclick="toggleAnswer(this)">
+                <h3 class="question">Can individuals volunteer with Waste2Value, and if so, how?</h3>
+                <span class="toggle">+</span>
+            </div>
+            <p class="answer">Yes, individuals can volunteer with Waste2Value by participating in community clean-up events, educational outreach programs, and hands-on recycling projects. Interested volunteers can sign up through our website.</p>
+        </div>
+        
+        <hr class="divider">
+        
+        <div class="faq-item">
+            <div class="question" onclick="toggleAnswer(this)">
+                <h3 class="question">What are the benefits of supporting Waste2Value's initiatives?</h3>
+                <span class="toggle">+</span>
+            </div>
+            <p class="answer">Supporting Waste2Value's initiatives helps reduce environmental pollution, promotes sustainable resource use, creates green jobs, and enhances community well-being through improved waste management practices.</p>
+        </div>
+        
+        <hr class="divider">
+        
+        <div class="faq-item">
+            <div class="question" onclick="toggleAnswer(this)">
+                <h3 class="question">How does Waste2Value ensure the sustainability of its projects?</h3>
+                <span class="toggle">+</span>
+            </div>
+            <p class="answer">Waste2Value ensures the sustainability of its projects by implementing circular economy principles, continuously improving processes, and engaging stakeholders in long-term environmental and economic benefits.</p>
+        </div>
+        
+        <hr class="divider">
+        
+        <div class="faq-item">
+            <div class="question" onclick="toggleAnswer(this)">
+                <h3 class="question">What role do local communities play in Waste2Value's projects?</h3>
+                <span class="toggle">+</span>
+            </div>
+            <p class="answer">Local communities play a crucial role in Waste2Value's projects by actively participating in waste collection, sorting, and recycling efforts, as well as benefiting from the economic opportunities created by these initiatives.</p>
+        </div>
+        
+        <hr class="divider">
+        
+        <div class="faq-item">
+            <div class="question" onclick="toggleAnswer(this)">
+                <h3 class="question">How does Waste2Value measure the success of its waste management programs?</h3>
+                <span class="toggle">+</span>
+            </div>
+            <p class="answer">Waste2Value measures the success of its waste management programs through key performance indicators such as waste diversion rates, resource recovery levels, community engagement metrics, and environmental impact assessments.</p>
+        </div>
+    </div>
+
+    <script>
+        function toggleAnswer(element) {
+            const answer = element.nextElementSibling;
+
+            answer.classList.toggle('active');
+            element.querySelector('.toggle').textContent = answer.classList.contains('active') ? '-' : '+';
+        }
+    </script>
+
+    <script src="./scripts/nav.js"></script>
+
+    <footer>
+        <p>&copy; 2024 Waste2Value. All rights reserved.</p>
+    </footer>
+
+</body>
+
+</html>
