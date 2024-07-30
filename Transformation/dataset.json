@@ -1,0 +1,7514 @@
+[
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Apple",
+        "Material": "Apple cores",
+        "Subproduct": "Vinegar",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Apple",
+        "Material": "Apple cores",
+        "Subproduct": "Vinegar",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Apple",
+        "Material": "Apple cores",
+        "Subproduct": "Pectin",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Banana",
+        "Material": "Banana peels",
+        "Subproduct": "Bioethanol",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Glass",
+        "Source": "Windows",
+        "Material": "Broken glass",
+        "Subproduct": "Glass powder",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Banana",
+        "Material": "Banana peels",
+        "Subproduct": "Compost",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Orange",
+        "Material": "Orange peels",
+        "Subproduct": "Essential oils",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Orange",
+        "Material": "Orange peels",
+        "Subproduct": "Essential oils",
+        "": ""
+    },
+    {
+        "Type": "Organic ",
+        "Category": "Beverage ",
+        "Source": "Coffee",
+        "Material": "Coffee Grounds",
+        "Subproduct": "Caffeine ",
+        "": ""
+    },
+    {
+        "Type": "Organic ",
+        "Category": "Dairy ",
+        "Source": "Cheese",
+        "Material": "Whey",
+        "Subproduct": "Lactose ",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Plastic",
+        "Source": "PET",
+        "Material": "PET bottles",
+        "Subproduct": "Recycled PET (rPET) flakes",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Plastic",
+        "Source": "HDPE",
+        "Material": "HDPE bottles",
+        "Subproduct": "Recycled HDPE (rHDPE)",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Paper",
+        "Source": "Paper",
+        "Material": "Cardboard boxes",
+        "Subproduct": "Recycled cardboard",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Food",
+        "Source": "Mixed",
+        "Material": "Fruit and vegetable scraps",
+        "Subproduct": "Compost",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Glass",
+        "Source": "Bottles",
+        "Material": "Glass bottles",
+        "Subproduct": "Recycled glass cullet",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Textile",
+        "Source": "Used Clothes ",
+        "Material": "Cotton fabric scraps",
+        "Subproduct": "Recycled cotton fibers",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metal",
+        "Source": "Aluminum",
+        "Material": "Aluminum cans",
+        "Subproduct": "Recycled aluminum",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Electronics",
+        "Source": "Smartphones",
+        "Material": "Old smartphones",
+        "Subproduct": "Refurbished smartphones",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Rubber",
+        "Source": "Tires",
+        "Material": "Tires",
+        "Subproduct": "Recycled rubber",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Biomass",
+        "Source": "Wood",
+        "Material": "Wood waste",
+        "Subproduct": "Biomass pellets",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Electronics",
+        "Source": "Computers",
+        "Material": "Old computers",
+        "Subproduct": "Recycled plastic",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Paper",
+        "Source": "Paper",
+        "Material": "Newspaper",
+        "Subproduct": "Recycled paper pulp",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metal",
+        "Source": "Copper",
+        "Material": "Copper wires",
+        "Subproduct": "Recycled copper",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Textile",
+        "Source": "Used Clothes ",
+        "Material": "Wool fabric scraps",
+        "Subproduct": "Recycled wool fibers",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Biomass",
+        "Source": "Algae",
+        "Material": "Algae biomass",
+        "Subproduct": "Algal protein",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Rubber",
+        "Source": "Bands",
+        "Material": "Rubber bands",
+        "Subproduct": "Recycled rubber",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Biomass",
+        "Source": "Leaves",
+        "Material": "Leaves",
+        "Subproduct": "Mulch",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Beet",
+        "Material": "Beet Pulp",
+        "Subproduct": "Beet Pulp Pellets",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Grapes",
+        "Material": "Grape stems",
+        "Subproduct": "Resveratrol",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Onion",
+        "Material": "Onion skins",
+        "Subproduct": "Natural dye",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Plastic",
+        "Source": "Polypropylene",
+        "Material": "Polypropylene",
+        "Subproduct": "Recycled PP (rPP)",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metal",
+        "Source": "Steel",
+        "Material": "Steel cans",
+        "Subproduct": "Recycled steel",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Biomass",
+        "Source": "Sawdust",
+        "Material": "Sawdust",
+        "Subproduct": "Wood pellets",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Food",
+        "Source": "Coffee",
+        "Material": "Coffee grounds",
+        "Subproduct": "Bioplastics",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Glass",
+        "Source": "Windows",
+        "Material": "Glass windows",
+        "Subproduct": "Recycled glass cullet",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Textile",
+        "Source": "Silk",
+        "Material": "Silk fabric scraps",
+        "Subproduct": "Recycled silk fibers",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Electronics",
+        "Source": "Monitors",
+        "Material": "Old monitors",
+        "Subproduct": "Refurbished monitors",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Rubber",
+        "Source": "Shoes",
+        "Material": "Rubber shoe soles",
+        "Subproduct": "Recycled rubber",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Biomass",
+        "Source": "Hay",
+        "Material": "Hay bales",
+        "Subproduct": "Biomass bricks",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Corn",
+        "Material": "Corn husks",
+        "Subproduct": "Animal bedding",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Plastic",
+        "Source": "PVC",
+        "Material": "PVC pipes",
+        "Subproduct": "Recycled PVC (rPVC)",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metal",
+        "Source": "Copper",
+        "Material": "Copper pipes",
+        "Subproduct": "Recycled copper",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Mango",
+        "Material": "Mango pits",
+        "Subproduct": "Mango seed oil",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Grains",
+        "Source": "Rice",
+        "Material": "Rice Husks",
+        "Subproduct": "Rice Bran",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Animal",
+        "Source": "Meat",
+        "Material": "Meat Trimmings",
+        "Subproduct": "Pet food",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Biomass",
+        "Source": "Sawdust",
+        "Material": "Sawdust",
+        "Subproduct": "Wood pellets",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Biomass",
+        "Source": "Sawdust",
+        "Material": "Sawdust",
+        "Subproduct": "Wood pellets",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Glass",
+        "Source": "Windows",
+        "Material": "Glass windows",
+        "Subproduct": "Recycled glass cullet",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Textile",
+        "Source": "Silk",
+        "Material": "Silk fabric scraps",
+        "Subproduct": "Recycled silk fibers",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Electronics",
+        "Source": "Monitors",
+        "Material": "Old monitors",
+        "Subproduct": "Refurbished monitors",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Rubber",
+        "Source": "Shoes",
+        "Material": "Rubber shoe soles",
+        "Subproduct": "Recycled rubber",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Biomass",
+        "Source": "Hay",
+        "Material": "Hay bales",
+        "Subproduct": "Biomass bricks",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Corn",
+        "Material": "Corn husks",
+        "Subproduct": "Animal bedding",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Mango",
+        "Material": "Mango pits",
+        "Subproduct": "Mango seed oil",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Celery",
+        "Material": "Celery leaves",
+        "Subproduct": "Celery leaf tea",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metal",
+        "Source": "Copper",
+        "Material": "Copper pipes",
+        "Subproduct": "Recycled copper",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metal",
+        "Source": "Copper",
+        "Material": "Copper wires",
+        "Subproduct": "Recycled copper",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Avocado",
+        "Material": "Avocado pits",
+        "Subproduct": "Avocado pit tea",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Beet",
+        "Material": "Beet greens",
+        "Subproduct": "Beet green extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Beet",
+        "Material": "Beet peels",
+        "Subproduct": "Beet peel chips",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Beet",
+        "Material": "Beet peels",
+        "Subproduct": "Beet peel essence",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Plastic",
+        "Source": "PP",
+        "Material": "Polypropylene containers",
+        "Subproduct": "Recycled PP (rPP)",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Plastic",
+        "Source": "PP",
+        "Material": "Polypropylene containers",
+        "Subproduct": "Polypropylene pellets",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Guava",
+        "Material": "Guava peels",
+        "Subproduct": "Guava peel tea",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Mango",
+        "Material": "Mango seeds",
+        "Subproduct": "Mango seed flour",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Persimmon",
+        "Material": "Persimmon leaves",
+        "Subproduct": "Persimmon leaf tea",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Mango",
+        "Material": "Mango peels",
+        "Subproduct": "Mango peel fertilizer",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Glass",
+        "Source": "Windows",
+        "Material": "Broken glass",
+        "Subproduct": "Glass cullet",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Pomegranate",
+        "Material": "Pomegranate peels",
+        "Subproduct": "Pomegranate peel tea",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Biomass",
+        "Source": "Sawdust",
+        "Material": "Sawdust",
+        "Subproduct": "Sawdust briquettes",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Biomass",
+        "Source": "Sawdust",
+        "Material": "Sawdust",
+        "Subproduct": "Sawdust mulch",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Biomass",
+        "Source": "Sawdust",
+        "Material": "Sawdust pellets",
+        "Subproduct": "Animal bedding",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Textile",
+        "Source": "Silk",
+        "Material": "Silk fibers",
+        "Subproduct": "Recycled silk fibers",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Textile",
+        "Source": "Silk",
+        "Material": "Silk fibers",
+        "Subproduct": "Silk thread",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Textile",
+        "Source": "Silk",
+        "Material": "Silk fabric scraps",
+        "Subproduct": "Silk quilt batting",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Pumpkin",
+        "Material": "Pumpkin seeds",
+        "Subproduct": "Pumpkin seed oil",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Pumpkin",
+        "Material": "Pumpkin seeds",
+        "Subproduct": "Pumpkin seed flour",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Pumpkin",
+        "Material": "Pumpkin peels",
+        "Subproduct": "Pumpkin peel chips",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Pumpkin",
+        "Material": "Pumpkin peels",
+        "Subproduct": "Pumpkin peel powder",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Pineapple",
+        "Material": "Pineapple cores",
+        "Subproduct": "Bromelain extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Pineapple",
+        "Material": "Pineapple cores",
+        "Subproduct": "Pineapple vinegar",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Pineapple",
+        "Material": "Pineapple leaves",
+        "Subproduct": "Pineapple leaf fiber",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Pineapple",
+        "Material": "Pineapple leaves",
+        "Subproduct": "Pineapple leaf extract",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Plastic",
+        "Source": "PVC",
+        "Material": "PVC pipes",
+        "Subproduct": "Recycled PVC (rPVC)",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Plastic",
+        "Source": "PVC",
+        "Material": "PVC pipes",
+        "Subproduct": "PVC granules",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Carrot",
+        "Material": "Carrot tops",
+        "Subproduct": "Carrot top pesto",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Carrot",
+        "Material": "Carrot tops",
+        "Subproduct": "Carrot top broth",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Carrot",
+        "Material": "Carrot peels",
+        "Subproduct": "Carrot peel powder",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Carrot",
+        "Material": "Carrot peels",
+        "Subproduct": "Carrot peel essence",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Paper",
+        "Source": "Cardboard",
+        "Material": "Cardboard boxes",
+        "Subproduct": "Recycled cardboard",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Paper",
+        "Source": "Cardboard",
+        "Material": "Cardboard boxes",
+        "Subproduct": "Cardboard pulp",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Paper",
+        "Source": "Cardboard",
+        "Material": "Paper scraps",
+        "Subproduct": "Recycled paper pulp",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Paper",
+        "Source": "Cardboard",
+        "Material": "Paper scraps",
+        "Subproduct": "Paper pellets",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Biomass",
+        "Source": "Algae",
+        "Material": "Algae biomass",
+        "Subproduct": "Algal oil",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Kale",
+        "Material": "Kale stems",
+        "Subproduct": "Kale stem smoothie",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Biomass",
+        "Source": "Algae",
+        "Material": "Algae shells",
+        "Subproduct": "Calcium carbonate",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metal",
+        "Source": "Copper",
+        "Material": "Copper wires",
+        "Subproduct": "Recycled copper",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metal",
+        "Source": "Copper",
+        "Material": "Copper pipes",
+        "Subproduct": "Copper tubing",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metal",
+        "Source": "Copper",
+        "Material": "Copper pipes",
+        "Subproduct": "Copper sheet",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Artichoke",
+        "Material": "Artichoke leaves",
+        "Subproduct": "Artichoke leaf tea",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Pineapple",
+        "Material": "Pineapple cores",
+        "Subproduct": "Pineapple core juice",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Beet",
+        "Material": "Beet greens",
+        "Subproduct": "Beet green smoothie",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Avocado",
+        "Material": "Avocado peels",
+        "Subproduct": "Avocado peel fertilizer",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Plastic",
+        "Source": "Plastic Packaging Waste",
+        "Material": "Plastic Caps",
+        "Subproduct": "Recycled PET (rPET)",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Plastic",
+        "Source": "Plastic Packaging Waste",
+        "Material": "Plastic Caps",
+        "Subproduct": "Recycled HDPE (rHDPE)",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Plastic",
+        "Source": "Plastic Packaging Waste",
+        "Material": "Plastic Wrappers",
+        "Subproduct": "Recycled LDPE (rLDPE)",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Plastic",
+        "Source": "Plastic Packaging Waste",
+        "Material": "Plastic Wrappers",
+        "Subproduct": "Recycled PP (rPP)",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Olive",
+        "Material": "Olive Pomace",
+        "Subproduct": "Olive Oil",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Tomato",
+        "Material": "Tomato vines",
+        "Subproduct": "Tomato vine tea",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metal",
+        "Source": "Automotive",
+        "Material": "Automotive Scrap",
+        "Subproduct": "Aluminum Cans",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metal",
+        "Source": "Automotive",
+        "Material": "Automotive Scrap",
+        "Subproduct": "Steel Scrap",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Potato",
+        "Material": "Potato Peels",
+        "Subproduct": "Potato Peel Powder",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Spinach",
+        "Material": "Spinach stalks",
+        "Subproduct": "Spinach stalk smoothie",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metal",
+        "Source": "Scrap Copper Wire",
+        "Material": "Copper Wire",
+        "Subproduct": "Recycled Copper",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metal",
+        "Source": "Scrap Copper Wire",
+        "Material": "Copper Wire",
+        "Subproduct": "Copper Granules",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Mango",
+        "Material": "Mango Seeds",
+        "Subproduct": "Mango Seed Oil",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Mango",
+        "Material": "Mango Seeds",
+        "Subproduct": "Mango Seed Powder",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Plastic",
+        "Source": "Plastic Bottle Waste",
+        "Material": "Plastic Caps",
+        "Subproduct": "Recycled Plastic",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Plastic",
+        "Source": "Plastic Bottle Waste",
+        "Material": "Plastic Caps",
+        "Subproduct": "Plastic Granules",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Coffee",
+        "Material": "Coffee Grounds",
+        "Subproduct": "Coffee Ground Powder",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Mango",
+        "Material": "Mango peels",
+        "Subproduct": "Mango peel tea",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Tomato",
+        "Material": "Tomato Skins",
+        "Subproduct": "Tomato Skin Powder",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Avocado",
+        "Material": "Avocado peels",
+        "Subproduct": "Avocado peel tea",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Tomato",
+        "Material": "Tomato Pulp",
+        "Subproduct": "Tomato Pulp Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Tomato",
+        "Material": "Tomato Pulp",
+        "Subproduct": "Tomato Pulp Fiber",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Tomato",
+        "Material": "Tomato Seeds",
+        "Subproduct": "Tomato Seed Oil",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Tomato",
+        "Material": "Tomato Seeds",
+        "Subproduct": "Tomato Seed Flour",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Tomato",
+        "Material": "Tomato Juice",
+        "Subproduct": "Tomato Juice Concentrate",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Tomato",
+        "Material": "Tomato Juice",
+        "Subproduct": "Tomato Juice Powder",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Tomato",
+        "Material": "Tomato Juice",
+        "Subproduct": "Tomato Pulp Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Tomato",
+        "Material": "Tomato Leaves",
+        "Subproduct": "Tomato Leaf Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Lettuce",
+        "Material": "Lettuce Trimmings",
+        "Subproduct": "Lettuce Leaf Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Lettuce",
+        "Material": "Lettuce Trimmings",
+        "Subproduct": "Compost",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Paper",
+        "Source": "Newspapers",
+        "Material": "Newspaper Waste",
+        "Subproduct": "Paper Pulp",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metal",
+        "Source": "Steel",
+        "Material": "Steel Cans",
+        "Subproduct": "Steel Can Waste",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Broccoli",
+        "Material": "Broccoli Stems",
+        "Subproduct": "Broccoli Stem Soup",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Broccoli",
+        "Material": "Broccoli Stems",
+        "Subproduct": "Compost",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Plastic",
+        "Source": "Plastic Straw Waste",
+        "Material": "Plastic Straws",
+        "Subproduct": "Recycled Plastic",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Grape",
+        "Material": "Grape Pomace",
+        "Subproduct": "Grape Seed Oil",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Celery",
+        "Material": "Celery Trimmings",
+        "Subproduct": "Celery Juice",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Banana",
+        "Material": "Banana Peels",
+        "Subproduct": "Banana Peel Tea",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Celery",
+        "Material": "Celery Trimmings",
+        "Subproduct": "Celery Trimming Powder",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Glass",
+        "Source": "Glass Bottle Waste",
+        "Material": "Glass Bottles",
+        "Subproduct": "Recycled Glass Cullet",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Celery",
+        "Material": "Celery Trimmings",
+        "Subproduct": "Celery Juice",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Cucumber",
+        "Material": "Cucumber Peels",
+        "Subproduct": "Cucumber Peel Powder",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metal",
+        "Source": "Tin",
+        "Material": "Tin Cans",
+        "Subproduct": "Recycled Tin",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Artichoke",
+        "Material": "Artichoke stems",
+        "Subproduct": "Biomaterial",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Spinach",
+        "Material": "Spinach Stalks",
+        "Subproduct": "Compost",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Plastic",
+        "Source": "Plastic Bottle Waste",
+        "Material": "Plastic Bottles",
+        "Subproduct": "Recycled Plastic",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Orange",
+        "Material": "Orange Peels",
+        "Subproduct": "Orange Peel Powder",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Orange",
+        "Material": "Orange Peels",
+        "Subproduct": "Orange Peel Powder",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Seafood",
+        "Source": "Shellfish",
+        "Material": "Shellfish shells",
+        "Subproduct": "Chitin",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Orange",
+        "Material": "Orange peels",
+        "Subproduct": "Citrus cleaner",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Orange",
+        "Material": "Orange Peels",
+        "Subproduct": "Orange Peel Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Lemon",
+        "Material": "Lemon Peels",
+        "Subproduct": "Lemon Peel Powder",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Apple",
+        "Material": "Apple Cores",
+        "Subproduct": "Apple Seed Oil",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Mango",
+        "Material": "Mango pits",
+        "Subproduct": "Mango pit scrub",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Apple",
+        "Material": "Apple Cores",
+        "Subproduct": "Apple Peel Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Cucumber",
+        "Material": "Cucumber peels",
+        "Subproduct": "Cucumber peel face mask",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Banana",
+        "Material": "Banana Peels",
+        "Subproduct": "Banana Peel Tea",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Banana",
+        "Material": "Banana Peels",
+        "Subproduct": "Banana Peel Powder",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Banana",
+        "Material": "Banana Peels",
+        "Subproduct": "Banana Peel Powder",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Herbal",
+        "Source": "Tea",
+        "Material": "Tea Bags",
+        "Subproduct": "Used tea leaves",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Mango",
+        "Material": "Mango Seeds",
+        "Subproduct": "Mango Seed Oil",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Dairy",
+        "Source": "Whey",
+        "Material": "Biomass",
+        "Subproduct": "Biomass",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Grains",
+        "Source": "Rice",
+        "Material": "Rice Husks",
+        "Subproduct": "Rice Husk Ash",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Pineapple",
+        "Material": "Pineapple Cores",
+        "Subproduct": "Bromelain Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Pineapple",
+        "Material": "Pineapple Cores",
+        "Subproduct": "Bromelain Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Pineapple",
+        "Material": "Pineapple Cores",
+        "Subproduct": "Pineapple Vinegar",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Pineapple",
+        "Material": "Pineapple Cores",
+        "Subproduct": "Pineapple Vinegar",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Potato",
+        "Material": "Potato Peels",
+        "Subproduct": "Potato Peel Powder",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Squash",
+        "Material": "Squash seeds",
+        "Subproduct": "Squash seed oil",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Orange",
+        "Material": "Orange Peels",
+        "Subproduct": "Orange Peel Powder",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Potato",
+        "Material": "Potato Peels",
+        "Subproduct": "Potato Peel Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Carrot",
+        "Material": "Carrot Tops",
+        "Subproduct": "Carrot Top Pesto",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Carrot",
+        "Material": "Carrot Tops",
+        "Subproduct": "Carrot Top Pesto",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Carrot",
+        "Material": "Carrot Tops",
+        "Subproduct": "Carrot Top Broth",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Carrot",
+        "Material": "Carrot Tops",
+        "Subproduct": "Carrot Top Broth",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Onion",
+        "Material": "Onion Skins",
+        "Subproduct": "Onion Skin Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Onion",
+        "Material": "Onion Skins",
+        "Subproduct": "Onion Skin Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Mango",
+        "Material": "Mango Seeds",
+        "Subproduct": "Mango Seed Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Potato",
+        "Material": "Potato Peels",
+        "Subproduct": "Potato Peel Powder",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Orange",
+        "Material": "Orange Peels",
+        "Subproduct": "Orange Peel Powder",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Kiwi",
+        "Material": "Kiwi Skins",
+        "Subproduct": "Kiwi Skin Powder",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Celery",
+        "Material": "Celery Trimmings",
+        "Subproduct": "Celery Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Lychee",
+        "Material": "Lychee Skins",
+        "Subproduct": "Lychee Skin Powder",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Biomass",
+        "Source": "Rice",
+        "Material": "Rice Husks",
+        "Subproduct": "Rice Husk Ash",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Biomass",
+        "Source": "Rice",
+        "Material": "Rice Husks",
+        "Subproduct": "Rice Husk Ash",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Biomass",
+        "Source": "Rice",
+        "Material": "Rice Husks",
+        "Subproduct": "Rice Husk Pellets",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Biomass",
+        "Source": "Rice",
+        "Material": "Rice Husks",
+        "Subproduct": "Rice Husk Pellets",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Biomass",
+        "Source": "Corn",
+        "Material": "Corn Husks",
+        "Subproduct": "Corn Husk Fiber",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Biomass",
+        "Source": "Corn",
+        "Material": "Corn Husks",
+        "Subproduct": "Corn Husk Fiber",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Biomass",
+        "Source": "Corn",
+        "Material": "Corn Husks",
+        "Subproduct": "Corn Husk Mulch",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Biomass",
+        "Source": "Corn",
+        "Material": "Corn Husks",
+        "Subproduct": "Corn Husk Mulch",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Biomass",
+        "Source": "Wheat",
+        "Material": "Wheat Straw",
+        "Subproduct": "Wheat Straw Mulch",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Biomass",
+        "Source": "Wheat",
+        "Material": "Wheat Straw",
+        "Subproduct": "Wheat Straw Mulch",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Biomass",
+        "Source": "Wheat",
+        "Material": "Wheat Straw",
+        "Subproduct": "Wheat Straw Briquettes",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Biomass",
+        "Source": "Wheat",
+        "Material": "Wheat Straw",
+        "Subproduct": "Wheat Straw Briquettes",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Plastic",
+        "Source": "Plastic Packaging Waste",
+        "Material": "PET Bottles",
+        "Subproduct": "Recycled PET Flakes",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Plastic",
+        "Source": "Plastic Packaging Waste",
+        "Material": "PET Bottles",
+        "Subproduct": "Recycled PET Flakes",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Plastic",
+        "Source": "Plastic Packaging Waste",
+        "Material": "PVC Pipes",
+        "Subproduct": "Recycled PVC",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Corn",
+        "Material": "Corn Husks",
+        "Subproduct": "Corn Husk Fiber",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Plastic",
+        "Source": "Plastic Packaging Waste",
+        "Material": "Plastic Bags",
+        "Subproduct": "Recycled Plastic",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Plastic",
+        "Source": "Plastic Packaging Waste",
+        "Material": "Plastic Bags",
+        "Subproduct": "Recycled Plastic",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Plastic",
+        "Source": "Plastic Packaging Waste",
+        "Material": "Plastic Bags",
+        "Subproduct": "Plastic Pellets",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metal",
+        "Source": "Metal Packaging Waste",
+        "Material": "Aluminum Cans",
+        "Subproduct": "Recycled Aluminum",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metal",
+        "Source": "Metal Packaging Waste",
+        "Material": "Aluminum Cans",
+        "Subproduct": "Recycled Aluminum",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metal",
+        "Source": "Metal Packaging Waste",
+        "Material": "Steel Cans",
+        "Subproduct": "Recycled Steel",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metal",
+        "Source": "Metal Packaging Waste",
+        "Material": "Steel Cans",
+        "Subproduct": "Recycled Steel",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metal",
+        "Source": "Metal Packaging Waste",
+        "Material": "Tin Cans",
+        "Subproduct": "Recycled Tin",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metal",
+        "Source": "Metal Packaging Waste",
+        "Material": "Tin Cans",
+        "Subproduct": "Recycled Tin",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Beet",
+        "Material": "Beet Pulp",
+        "Subproduct": "Beet Pulp Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Beet",
+        "Material": "Beet Pulp",
+        "Subproduct": "Beet Pulp Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Asparagus",
+        "Material": "Asparagus Stems",
+        "Subproduct": "Asparagus Stem Fiber",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Beet",
+        "Material": "Beet Pulp",
+        "Subproduct": "Beet Pulp Pellets",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Artichoke",
+        "Material": "Artichoke leaves",
+        "Subproduct": "Artichoke extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Avocado",
+        "Material": "Avocado seeds",
+        "Subproduct": "Avocado seed powder",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Cucumber",
+        "Material": "Cucumber Peels",
+        "Subproduct": "Cucumber Peel Powder",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Cucumber",
+        "Material": "Cucumber Peels",
+        "Subproduct": "Cucumber Peel Powder",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Biomass",
+        "Source": "Coconut",
+        "Material": "Coconut Shells",
+        "Subproduct": "Coconut Shell Charcoal",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Biomass",
+        "Source": "Coconut",
+        "Material": "Coconut Shells",
+        "Subproduct": "Coconut Shell Charcoal",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Biomass",
+        "Source": "Coconut",
+        "Material": "Coconut Shells",
+        "Subproduct": "Coconut Coir",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Olive",
+        "Material": "Olive Pomace",
+        "Subproduct": "Olive Leaf Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Grains",
+        "Source": "Rice",
+        "Material": "Rice Husks",
+        "Subproduct": "Rice Husk Ash",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Tomato",
+        "Material": "Tomato Skins",
+        "Subproduct": "Lycopene Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Grains",
+        "Source": "Rice",
+        "Material": "Rice Husks",
+        "Subproduct": "Rice Bran",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Onion",
+        "Material": "Onion Peels",
+        "Subproduct": "Onion Peel Powder",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Onion",
+        "Material": "Onion Peels",
+        "Subproduct": "Onion Peel Powder",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Celery",
+        "Material": "Celery Trimmings",
+        "Subproduct": "Celery Juice",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Onion",
+        "Material": "Onion Peels",
+        "Subproduct": "Onion Peel Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Bell Pepper",
+        "Material": "Bell Pepper Seeds",
+        "Subproduct": "Bell Pepper Seed Oil",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Cucumber",
+        "Material": "Cucumber Peels",
+        "Subproduct": "Cucumber Peel Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Pineapple",
+        "Material": "Pineapple Cores",
+        "Subproduct": "Pineapple Core Powder",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Bell Pepper",
+        "Material": "Bell Pepper Seeds",
+        "Subproduct": "Bell Pepper Seed Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Orange",
+        "Material": "Orange Peels",
+        "Subproduct": "Orange Peel Powder",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Asparagus",
+        "Material": "Asparagus Stems",
+        "Subproduct": "Asparagus Stem Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Orange",
+        "Material": "Orange Peels",
+        "Subproduct": "Orange Peel Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Papaya",
+        "Material": "Papaya Seeds",
+        "Subproduct": "Papaya Seed Powder",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Corn",
+        "Material": "Corn Husks",
+        "Subproduct": "Corn Husk Fiber",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Grains",
+        "Source": "Barley",
+        "Material": "Barley Husks",
+        "Subproduct": "Barley Husk Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Broccoli",
+        "Material": "Broccoli Stalks",
+        "Subproduct": "Broccoli Stalk Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Zucchini",
+        "Material": "Zucchini Seeds",
+        "Subproduct": "Zucchini Seed Oil",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Spinach",
+        "Material": "Spinach Leaves",
+        "Subproduct": "Spinach Leaf Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Spinach",
+        "Material": "Spinach Leaves",
+        "Subproduct": "Spinach Leaf Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Spinach",
+        "Material": "Spinach Leaves",
+        "Subproduct": "Spinach Leaf Powder",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Brussels Sprouts",
+        "Material": "Brussels Sprouts Leaves",
+        "Subproduct": "Brussels Sprouts Leaf Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Sweet Potato",
+        "Material": "Sweet Potato Peels",
+        "Subproduct": "Sweet Potato Peel Powder",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Sweet Potato",
+        "Material": "Sweet Potato Peels",
+        "Subproduct": "Sweet Potato Peel Powder",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Guava",
+        "Material": "Guava Seeds",
+        "Subproduct": "Guava Seed Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Sweet Potato",
+        "Material": "Sweet Potato Peels",
+        "Subproduct": "Sweet Potato Peel Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Collard Green",
+        "Material": "Collard Green Stems",
+        "Subproduct": "Collard Green Stem Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Mango",
+        "Material": "Mango Seeds",
+        "Subproduct": "Mango Seed Butter",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Mango",
+        "Material": "Mango Seeds",
+        "Subproduct": "Mango Seed Oil",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Beetroot",
+        "Material": "Beetroot Stems",
+        "Subproduct": "Beetroot Stem Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Pineapple",
+        "Material": "Pineapple Cores",
+        "Subproduct": "Bromelain Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Pineapple",
+        "Material": "Pineapple Cores",
+        "Subproduct": "Bromelain Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Kale",
+        "Material": "Kale Leaves",
+        "Subproduct": "Kale Leaf Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Pineapple",
+        "Material": "Pineapple Cores",
+        "Subproduct": "Pineapple Core Powder",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Asparagus",
+        "Material": "Asparagus Stems",
+        "Subproduct": "Asparagus Stem Fiber",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Pomegranate",
+        "Material": "Pomegranate peels",
+        "Subproduct": "Pomegranate peel powder",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Animal",
+        "Source": "Fish",
+        "Material": "Fish Scraps",
+        "Subproduct": "Fish oil",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Asparagus",
+        "Material": "Asparagus Stems",
+        "Subproduct": "Asparagus Stem Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Papaya",
+        "Material": "Papaya Seeds",
+        "Subproduct": "Papaya Seed Oil",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Orange",
+        "Material": "Orange Peels",
+        "Subproduct": "Orange Peel Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Potato",
+        "Material": "Potato peels",
+        "Subproduct": "Biogas",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Squash",
+        "Material": "Squash seeds",
+        "Subproduct": "Biofuel",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Artichoke",
+        "Material": "Artichoke Leaves",
+        "Subproduct": "Artichoke Leaf Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Artichoke",
+        "Material": "Artichoke Leaves",
+        "Subproduct": "Artichoke Leaf Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Artichoke",
+        "Material": "Artichoke Leaves",
+        "Subproduct": "Artichoke Leaf Powder",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Artichoke",
+        "Material": "Artichoke Leaves",
+        "Subproduct": "Artichoke Leaf Powder",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Grains",
+        "Source": "Barley",
+        "Material": "Barley Husks",
+        "Subproduct": "Barley Husk Mulch",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Grains",
+        "Source": "Barley",
+        "Material": "Barley Husks",
+        "Subproduct": "Barley Husk Mulch",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Banana",
+        "Material": "Banana peels",
+        "Subproduct": "Bioethanol",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Biomass",
+        "Source": "Algae",
+        "Material": "Algae biomass",
+        "Subproduct": "Biofuel",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Kiwi",
+        "Material": "Kiwi Skins",
+        "Subproduct": "Kiwi Skin Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Biomass",
+        "Source": "Algae",
+        "Material": "Algae biomass",
+        "Subproduct": "Biofuel",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Onion",
+        "Material": "Onion Skins",
+        "Subproduct": "Onion Skin Powder",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Celery",
+        "Material": "Celery Trimmings",
+        "Subproduct": "Celery Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Broccoli",
+        "Material": "Broccoli Stalks",
+        "Subproduct": "Broccoli Stalk Fiber",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Broccoli",
+        "Material": "Broccoli Stalks",
+        "Subproduct": "Broccoli Stalk Fiber",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Squash",
+        "Material": "Squash seeds",
+        "Subproduct": "Roasted snack",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Broccoli",
+        "Material": "Broccoli Stalks",
+        "Subproduct": "Broccoli Stalk Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Zucchini",
+        "Material": "Zucchini Seeds",
+        "Subproduct": "Zucchini Seed Oil",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Papaya",
+        "Material": "Papaya seeds",
+        "Subproduct": "Edible seeds",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Coffee",
+        "Material": "Coffee Grounds",
+        "Subproduct": "Coffee Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Zucchini",
+        "Material": "Zucchini Seeds",
+        "Subproduct": "Zucchini Seed Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Brussels Sprouts",
+        "Material": "Brussels Sprouts Leaves",
+        "Subproduct": "Brussels Sprouts Leaf Powder",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Onion",
+        "Material": "Onion Peels",
+        "Subproduct": "Onion Peel Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Orange",
+        "Material": "Orange Peels",
+        "Subproduct": "Orange Peel Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Brussels Sprouts",
+        "Material": "Brussels Sprouts Leaves",
+        "Subproduct": "Brussels Sprouts Leaf Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Kiwi",
+        "Material": "Kiwi Skins",
+        "Subproduct": "Kiwi Skin Powder",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Guava",
+        "Material": "Guava Seeds",
+        "Subproduct": "Guava Seed Oil",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Guava",
+        "Material": "Guava Seeds",
+        "Subproduct": "Guava Seed Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Lychee",
+        "Material": "Lychee Skins",
+        "Subproduct": "Lychee Skin Powder",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Turnip",
+        "Material": "Turnip Tops",
+        "Subproduct": "Turnip Top Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Turnip",
+        "Material": "Turnip Tops",
+        "Subproduct": "Turnip Top Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Turnip",
+        "Material": "Turnip Tops",
+        "Subproduct": "Turnip Top Powder",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Turnip",
+        "Material": "Turnip Tops",
+        "Subproduct": "Turnip Top Powder",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Peach",
+        "Material": "Peach Skins",
+        "Subproduct": "Peach Skin Powder",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Grapes",
+        "Material": "Grape stems",
+        "Subproduct": "Resveratrol",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Beet",
+        "Material": "Beet greens",
+        "Subproduct": "Beet green powder",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Lychee",
+        "Material": "Lychee Skins",
+        "Subproduct": "Lychee Skin Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Collard Green",
+        "Material": "Collard Green Stems",
+        "Subproduct": "Collard Green Stem Fiber",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Collard Green",
+        "Material": "Collard Green Stems",
+        "Subproduct": "Collard Green Stem Fiber",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Grape",
+        "Material": "Grape Pomace",
+        "Subproduct": "Grape Pomace Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Collard Green",
+        "Material": "Collard Green Stems",
+        "Subproduct": "Collard Green Stem Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Swiss Chard",
+        "Material": "Swiss Chard Stems",
+        "Subproduct": "Swiss Chard Stem Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Swiss Chard",
+        "Material": "Swiss Chard Stems",
+        "Subproduct": "Swiss Chard Stem Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Grapefruit",
+        "Material": "Grapefruit Rinds",
+        "Subproduct": "Grapefruit Rind Oil",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Grapefruit",
+        "Material": "Grapefruit Rinds",
+        "Subproduct": "Grapefruit Rind Oil",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Radish",
+        "Material": "Radish Roots",
+        "Subproduct": "Radish Root Powder",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Radish",
+        "Material": "Radish Roots",
+        "Subproduct": "Radish Root Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Watermelon",
+        "Material": "Watermelon Rinds",
+        "Subproduct": "Watermelon Rind Jam",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Watermelon",
+        "Material": "Watermelon Rinds",
+        "Subproduct": "Watermelon Rind Pickle",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Spinach",
+        "Material": "Spinach Stalks",
+        "Subproduct": "Spinach Stalk Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Pumpkin",
+        "Material": "Pumpkin Seeds",
+        "Subproduct": "Pumpkin Seed Butter",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Cucumber",
+        "Material": "Cucumber Seeds",
+        "Subproduct": "Cucumber Seed Oil",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Cucumber",
+        "Material": "Cucumber Seeds",
+        "Subproduct": "Cucumber Seed Oil",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Bell Pepper",
+        "Material": "Bell Pepper Seeds",
+        "Subproduct": "Bell Pepper Seed Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Lemon",
+        "Material": "Lemon Peels",
+        "Subproduct": "Lemon Peel Powder",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Beetroot",
+        "Material": "Beetroot Stems",
+        "Subproduct": "Beetroot Stem Fiber",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Beetroot",
+        "Material": "Beetroot Stems",
+        "Subproduct": "Beetroot Stem Fiber",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Grains",
+        "Source": "Wheat",
+        "Material": "Wheat Bran",
+        "Subproduct": "Wheat Bran Oil",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Beetroot",
+        "Material": "Beetroot Stems",
+        "Subproduct": "Beetroot Stem Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Spinach",
+        "Material": "Spinach Leaves",
+        "Subproduct": "Spinach Leaf Powder",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Sweet Potato",
+        "Material": "Sweet Potato Peels",
+        "Subproduct": "Sweet Potato Peel Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Plum",
+        "Material": "Plum Pits",
+        "Subproduct": "Plum Pit Oil",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Mango",
+        "Material": "Mango Seeds",
+        "Subproduct": "Mango Seed Oil",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Tomato",
+        "Material": "Tomato Leaves",
+        "Subproduct": "Tomato Leaf Powder",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Tomato",
+        "Material": "Tomato Leaves",
+        "Subproduct": "Tomato Leaf Powder",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Celery",
+        "Material": "Celery Roots",
+        "Subproduct": "Celery Root Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Celery",
+        "Material": "Celery Roots",
+        "Subproduct": "Celery Root Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Kale",
+        "Material": "Kale Leaves",
+        "Subproduct": "Kale Leaf Powder",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Papaya",
+        "Material": "Papaya Seeds",
+        "Subproduct": "Papaya Seed Powder",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Dairy",
+        "Source": "Whey",
+        "Material": "Protein powder",
+        "Subproduct": "Protein powder",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Dairy",
+        "Source": "Whey",
+        "Material": "Protein powder",
+        "Subproduct": "Protein powder",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Dairy",
+        "Source": "Whey",
+        "Material": "Lactose",
+        "Subproduct": "Lactose",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Dairy",
+        "Source": "Whey",
+        "Material": "Lactose",
+        "Subproduct": "Lactose",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Dairy",
+        "Source": "Whey",
+        "Material": "Biomass",
+        "Subproduct": "Biomass",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Grains",
+        "Source": "Barley",
+        "Material": "Barley Husks",
+        "Subproduct": "Barley Husk Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Seafood",
+        "Source": "Shellfish",
+        "Material": "Shellfish shells",
+        "Subproduct": "Calcium carbonate",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Seafood",
+        "Source": "Shellfish",
+        "Material": "Shellfish shells",
+        "Subproduct": "Calcium carbonate",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Brussels Sprouts",
+        "Material": "Brussels Sprouts Leaves",
+        "Subproduct": "Brussels Sprouts Leaf Powder",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Seafood",
+        "Source": "Shellfish",
+        "Material": "Shellfish shells",
+        "Subproduct": "Chitin",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Seafood",
+        "Source": "Shellfish",
+        "Material": "Shellfish shells",
+        "Subproduct": "Fertilizer",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Seafood",
+        "Source": "Shellfish",
+        "Material": "Shellfish shells",
+        "Subproduct": "Fertilizer",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Rubber",
+        "Source": "Used tires",
+        "Material": "Rubber crumb",
+        "Subproduct": "Rubber crumb",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Rubber",
+        "Source": "Used tires",
+        "Material": "Rubber crumb",
+        "Subproduct": "Rubber crumb",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Potato",
+        "Material": "Potato Peels",
+        "Subproduct": "Potato Peel Extract",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Rubber",
+        "Source": "Used tires",
+        "Material": "Tire-derived fuel",
+        "Subproduct": "Tire-derived fuel",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Rubber",
+        "Source": "Used tires",
+        "Material": "Tire-derived oil",
+        "Subproduct": "Tire-derived oil",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Rubber",
+        "Source": "Used tires",
+        "Material": "Tire-derived oil",
+        "Subproduct": "Tire-derived oil",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Glass",
+        "Source": "Tempered glass",
+        "Material": "Glass shards",
+        "Subproduct": "Glass shards",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Apple",
+        "Material": "Apple Cores",
+        "Subproduct": "Apple Peel Extract",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Glass",
+        "Source": "Tempered glass",
+        "Material": "Recycled glass",
+        "Subproduct": "Recycled glass",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Glass",
+        "Source": "Tempered glass",
+        "Material": "Recycled glass",
+        "Subproduct": "Recycled glass",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Glass",
+        "Source": "Tempered glass",
+        "Material": "Glass cullet",
+        "Subproduct": "Glass cullet",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Glass",
+        "Source": "Tempered glass",
+        "Material": "Glass cullet",
+        "Subproduct": "Glass cullet",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metal",
+        "Source": "Used car parts",
+        "Material": "Recycled steel",
+        "Subproduct": "Recycled steel",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metal",
+        "Source": "Used car parts",
+        "Material": "Recycled steel",
+        "Subproduct": "Recycled steel",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metal",
+        "Source": "Used car parts",
+        "Material": "Ferrous scrap",
+        "Subproduct": "Ferrous scrap",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metal",
+        "Source": "Used car parts",
+        "Material": "Ferrous scrap",
+        "Subproduct": "Ferrous scrap",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metal",
+        "Source": "Used car parts",
+        "Material": "Non-ferrous metals",
+        "Subproduct": "Non-ferrous metals",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metal",
+        "Source": "Used car parts",
+        "Material": "Non-ferrous metals",
+        "Subproduct": "Non-ferrous metals",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Plastic",
+        "Source": "Packaging materials",
+        "Material": "Plastic packaging",
+        "Subproduct": "Plastic pellets",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Plastic",
+        "Source": "Packaging materials",
+        "Material": "Plastic packaging",
+        "Subproduct": "Plastic pellets",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Plastic",
+        "Source": "Packaging materials",
+        "Material": "Plastic packaging",
+        "Subproduct": "Plastic film",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Plastic",
+        "Source": "Packaging materials",
+        "Material": "Plastic packaging",
+        "Subproduct": "Plastic film",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Plastic",
+        "Source": "Packaging materials",
+        "Material": "Plastic packaging",
+        "Subproduct": "Plastic fibers",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Plastic",
+        "Source": "Packaging materials",
+        "Material": "Plastic packaging",
+        "Subproduct": "Plastic fibers",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Textile",
+        "Source": "Textile waste",
+        "Material": "Recycled fabric",
+        "Subproduct": "Recycled fabric",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Textile",
+        "Source": "Textile waste",
+        "Material": "Recycled fabric",
+        "Subproduct": "Recycled fabric",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Textile",
+        "Source": "Textile waste",
+        "Material": "Textile fibers",
+        "Subproduct": "Textile fibers",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Textile",
+        "Source": "Textile waste",
+        "Material": "Textile fibers",
+        "Subproduct": "Textile fibers",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Textile",
+        "Source": "Textile waste",
+        "Material": "Textile dyes",
+        "Subproduct": "Textile dyes",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Textile",
+        "Source": "Textile waste",
+        "Material": "Textile dyes",
+        "Subproduct": "Textile dyes",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Electronics",
+        "Source": "E-waste",
+        "Material": "Old cell phones",
+        "Subproduct": "Recovered metals",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Electronics",
+        "Source": "E-waste",
+        "Material": "Old cell phones",
+        "Subproduct": "Recovered metals",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Celery",
+        "Material": "Celery leaves",
+        "Subproduct": "Celery leaf pesto",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Celery",
+        "Material": "Celery leaves",
+        "Subproduct": "Celery leaf pesto",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Mango",
+        "Material": "Mango Seeds",
+        "Subproduct": "Mango Seed Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Celery",
+        "Material": "Celery leaves",
+        "Subproduct": "Celery leaf tea",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Mango",
+        "Material": "Mango pits",
+        "Subproduct": "Mango pit scrub",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Potato",
+        "Material": "Potato Peels",
+        "Subproduct": "Potato Peel Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Mango",
+        "Material": "Mango pits",
+        "Subproduct": "Mango pit fire starter",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Mango",
+        "Material": "Mango pits",
+        "Subproduct": "Mango pit fire starter",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Avocado",
+        "Material": "Avocado pits",
+        "Subproduct": "Avocado pit ink",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Avocado",
+        "Material": "Avocado pits",
+        "Subproduct": "Avocado pit ink",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Onion",
+        "Material": "Onion Skins",
+        "Subproduct": "Onion Skin Powder",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Mango",
+        "Material": "Mango seeds",
+        "Subproduct": "Mango seed butter",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Guava",
+        "Material": "Guava peels",
+        "Subproduct": "Guava peel tea",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Guava",
+        "Material": "Guava peels",
+        "Subproduct": "Compost",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Guava",
+        "Material": "Guava peels",
+        "Subproduct": "Natural dye",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Cucumber",
+        "Material": "Cucumber Peels",
+        "Subproduct": "Cucumber Peel Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Squash",
+        "Material": "Squash seeds",
+        "Subproduct": "Squash seed oil",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Apple",
+        "Material": "Apple Cores",
+        "Subproduct": "Apple Seed Oil",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Mango",
+        "Material": "Mango Seeds",
+        "Subproduct": "Mango Seed Oil",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Passionfruit",
+        "Material": "Passionfruit husks",
+        "Subproduct": "Passionfruit husk mulch",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Passionfruit",
+        "Material": "Passionfruit husks",
+        "Subproduct": "Passionfruit husk mulch",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Passionfruit",
+        "Material": "Passionfruit husks",
+        "Subproduct": "Pet bedding",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Passionfruit",
+        "Material": "Passionfruit husks",
+        "Subproduct": "Biodegradable packaging",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Artichoke",
+        "Material": "Artichoke stems",
+        "Subproduct": "Artichoke stem soup",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Artichoke",
+        "Material": "Artichoke stems",
+        "Subproduct": "Artichoke stem soup",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Artichoke",
+        "Material": "Artichoke stems",
+        "Subproduct": "Compost",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Cucumber",
+        "Material": "Cucumber Peels",
+        "Subproduct": "Cucumber Peel Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Bell Pepper",
+        "Material": "Bell Pepper Seeds",
+        "Subproduct": "Bell Pepper Seed Oil",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Persimmon",
+        "Material": "Persimmon leaves",
+        "Subproduct": "Persimmon leaf tea",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Persimmon",
+        "Material": "Persimmon leaves",
+        "Subproduct": "Natural dye",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Persimmon",
+        "Material": "Persimmon leaves",
+        "Subproduct": "Compost",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Zucchini",
+        "Material": "Zucchini blossoms",
+        "Subproduct": "Zucchini flower fritters",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Zucchini",
+        "Material": "Zucchini blossoms",
+        "Subproduct": "Zucchini flower fritters",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Zucchini",
+        "Material": "Zucchini blossoms",
+        "Subproduct": "Edible garnish",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Zucchini",
+        "Material": "Zucchini blossoms",
+        "Subproduct": "Edible garnish",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Zucchini",
+        "Material": "Zucchini blossoms",
+        "Subproduct": "Infused oil",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Zucchini",
+        "Material": "Zucchini blossoms",
+        "Subproduct": "Infused oil",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Grains",
+        "Source": "Wheat",
+        "Material": "Wheat Bran",
+        "Subproduct": "Wheat Bran Oil",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Papaya",
+        "Material": "Papaya seeds",
+        "Subproduct": "Papaya seed face mask",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Mango",
+        "Material": "Mango Seeds",
+        "Subproduct": "Mango Seed Butter",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Papaya",
+        "Material": "Papaya seeds",
+        "Subproduct": "Digestive aid",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Okra",
+        "Material": "Okra pods",
+        "Subproduct": "Okra pod pickles",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Okra",
+        "Material": "Okra pods",
+        "Subproduct": "Okra pod pickles",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Okra",
+        "Material": "Okra pods",
+        "Subproduct": "Compost",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Okra",
+        "Material": "Okra pods",
+        "Subproduct": "Hydrogel",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Lychee",
+        "Material": "Lychee peels",
+        "Subproduct": "Lychee peel jam",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Lychee",
+        "Material": "Lychee peels",
+        "Subproduct": "Lychee peel jam",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Lychee",
+        "Material": "Lychee peels",
+        "Subproduct": "Natural dye",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Organic",
+        "Source": "Fruit",
+        "Material": "Lychee",
+        "Subproduct": "Lychee peels",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Bok choy",
+        "Material": "Bok choy stalks",
+        "Subproduct": "Bok choy stem stir-fry",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Bok choy",
+        "Material": "Bok choy stalks",
+        "Subproduct": "Bok choy stem stir-fry",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Bok choy",
+        "Material": "Bok choy stalks",
+        "Subproduct": "Compost",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Bok choy",
+        "Material": "Bok choy stalks",
+        "Subproduct": "Pickling",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Bok choy",
+        "Material": "Bok choy stalks",
+        "Subproduct": "Pickling",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Bok choy",
+        "Material": "Bok choy stalks",
+        "Subproduct": "Pickling",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Papaya",
+        "Material": "Papaya Seeds",
+        "Subproduct": "Papaya Seed Oil",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Kiwi",
+        "Material": "Kiwi Skins",
+        "Subproduct": "Kiwi Skin Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Zucchini",
+        "Material": "Zucchini Seeds",
+        "Subproduct": "Zucchini Seed Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Pomegranate",
+        "Material": "Pomegranate peels",
+        "Subproduct": "Pomegranate peel tea",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Pomegranate",
+        "Material": "Pomegranate peels",
+        "Subproduct": "Potpourri",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Jicama",
+        "Material": "Jicama skin",
+        "Subproduct": "Jicama skin salad",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Jicama",
+        "Material": "Jicama skin",
+        "Subproduct": "Jicama skin salad",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Guava",
+        "Material": "Guava Seeds",
+        "Subproduct": "Guava Seed Oil",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Jicama",
+        "Material": "Jicama skin",
+        "Subproduct": "Facial scrub",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Jicama",
+        "Material": "Jicama skin",
+        "Subproduct": "Compost",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Wood",
+        "Source": "Sawdust",
+        "Material": "Sawdust",
+        "Subproduct": "Sawdust briquettes",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Wood",
+        "Source": "Sawdust",
+        "Material": "Sawdust",
+        "Subproduct": "Compost",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Wood",
+        "Source": "Sawdust",
+        "Material": "Sawdust",
+        "Subproduct": "Particleboard",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Concrete",
+        "Source": "Pavers",
+        "Material": "Concrete paver scraps",
+        "Subproduct": "Concrete stepping stones",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Concrete",
+        "Source": "Pavers",
+        "Material": "Concrete paver scraps",
+        "Subproduct": "Recycled aggregate",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Concrete",
+        "Source": "Pavers",
+        "Material": "Concrete paver scraps",
+        "Subproduct": "Drainage material",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Leather",
+        "Source": "Belts",
+        "Material": "Leather belt scraps",
+        "Subproduct": "Leather keychains",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Lychee",
+        "Material": "Lychee Skins",
+        "Subproduct": "Lychee Skin Extract",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Leather",
+        "Source": "Belts",
+        "Material": "Leather belt scraps",
+        "Subproduct": "Leather bookmarks",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Pumpkin",
+        "Material": "Pumpkin Seeds",
+        "Subproduct": "Pumpkin Seed Butter",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Ceramic",
+        "Source": "Porcelain",
+        "Material": "Porcelain shards",
+        "Subproduct": "Mosaic tiles",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Ceramic",
+        "Source": "Porcelain",
+        "Material": "Porcelain shards",
+        "Subproduct": "Filler material",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Bell pepper",
+        "Material": "Bell pepper cores",
+        "Subproduct": "Bell pepper core salsa",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Bell pepper",
+        "Material": "Bell pepper cores",
+        "Subproduct": "Bell pepper core soup",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Celery",
+        "Material": "Celery tops",
+        "Subproduct": "Celery top pesto",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Celery",
+        "Material": "Celery tops",
+        "Subproduct": "Celery top broth",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Radish",
+        "Material": "Radish leaves",
+        "Subproduct": "Radish leaf pesto",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Radish",
+        "Material": "Radish leaves",
+        "Subproduct": "Radish leaf chips",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Leek",
+        "Material": "Leek greens",
+        "Subproduct": "Leek green soup",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Leek",
+        "Material": "Leek greens",
+        "Subproduct": "Leek green broth",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Asparagus",
+        "Material": "Asparagus ends",
+        "Subproduct": "Asparagus end broth",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Asparagus",
+        "Material": "Asparagus ends",
+        "Subproduct": "Asparagus end chips",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Peach",
+        "Material": "Peach Skins",
+        "Subproduct": "Peach Skin Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Kale",
+        "Material": "Kale stems",
+        "Subproduct": "Kale stem chips",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Brussels Sprouts",
+        "Material": "Brussels sprouts stems",
+        "Subproduct": "Brussels sprout stem chips",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Brussels Sprouts",
+        "Material": "Brussels sprouts stems",
+        "Subproduct": "Brussels sprout stem soup",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Turnip",
+        "Material": "Turnip tops",
+        "Subproduct": "Turnip top salad",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Turnip",
+        "Material": "Turnip tops",
+        "Subproduct": "Turnip top chips",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Spinach",
+        "Material": "Spinach roots",
+        "Subproduct": "Spinach root chips",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Spinach",
+        "Material": "Spinach roots",
+        "Subproduct": "Spinach root soup",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Plum",
+        "Material": "Plum Pits",
+        "Subproduct": "Plum Pit Oil",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Artichoke",
+        "Material": "Artichoke leaves",
+        "Subproduct": "Artichoke leaf chips",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Garlic",
+        "Material": "Garlic skins",
+        "Subproduct": "Garlic skin powder",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Garlic",
+        "Material": "Garlic skins",
+        "Subproduct": "Garlic skin broth",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Mango",
+        "Material": "Mango peels",
+        "Subproduct": "Mango peel jam",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Mango",
+        "Material": "Mango peels",
+        "Subproduct": "Mango peel chips",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Papaya",
+        "Material": "Papaya seeds",
+        "Subproduct": "Papaya seed face mask",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Pineapple",
+        "Material": "Pineapple cores",
+        "Subproduct": "Pineapple core jam",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Carrot",
+        "Material": "Carrot tops",
+        "Subproduct": "Carrot top pesto",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Carrot",
+        "Material": "Carrot tops",
+        "Subproduct": "Carrot top chips",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Beet",
+        "Material": "Beet greens",
+        "Subproduct": "Beet green chips",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Pomegranate",
+        "Material": "Pomegranate peels",
+        "Subproduct": "Pomegranate peel powder",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Cauliflower",
+        "Material": "Cauliflower leaves",
+        "Subproduct": "Cauliflower leaf wraps",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Cauliflower",
+        "Material": "Cauliflower leaves",
+        "Subproduct": "Cauliflower leaf soup",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Broccoli",
+        "Material": "Broccoli stalks",
+        "Subproduct": "Broccoli stalk pesto",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Broccoli",
+        "Material": "Broccoli stalks",
+        "Subproduct": "Broccoli stalk chips",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Broccoli",
+        "Material": "Broccoli leaves",
+        "Subproduct": "Broccoli leaf stir-fry",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Broccoli",
+        "Material": "Broccoli leaves",
+        "Subproduct": "Broccoli leaf chips",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Tomato",
+        "Material": "Tomato vines",
+        "Subproduct": "Tomato vine pesto",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Tomato",
+        "Material": "Tomato vines",
+        "Subproduct": "Tomato vine pesto",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Jicama",
+        "Material": "Jicama skin",
+        "Subproduct": "Facial scrub",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Tomato",
+        "Material": "Tomato vines",
+        "Subproduct": "Tomato vine tea",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Cauliflower",
+        "Material": "Cauliflower stems",
+        "Subproduct": "Cauliflower stem rice",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Cauliflower",
+        "Material": "Cauliflower stems",
+        "Subproduct": "Cauliflower stem rice",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Cauliflower",
+        "Material": "Cauliflower stems",
+        "Subproduct": "Cauliflower stem curry",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Cauliflower",
+        "Material": "Cauliflower stems",
+        "Subproduct": "Cauliflower stem curry",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Bell Pepper",
+        "Material": "Bell pepper seeds",
+        "Subproduct": "Bell pepper seed seasoning",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Bell Pepper",
+        "Material": "Bell pepper seeds",
+        "Subproduct": "Bell pepper seed seasoning",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Bell Pepper",
+        "Material": "Bell pepper seeds",
+        "Subproduct": "Bell pepper seed oil",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Bell Pepper",
+        "Material": "Bell pepper seeds",
+        "Subproduct": "Bell pepper seed oil",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Cucumber",
+        "Material": "Cucumber peels",
+        "Subproduct": "Cucumber peel face mask",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Avocado",
+        "Material": "Avocado seeds",
+        "Subproduct": "Avocado seed oil",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Cucumber",
+        "Material": "Cucumber peels",
+        "Subproduct": "Cucumber peel pickles",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Cucumber",
+        "Material": "Cucumber peels",
+        "Subproduct": "Cucumber peel pickles",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Beetroot",
+        "Material": "Beetroot peels",
+        "Subproduct": "Beetroot peel dye",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Beetroot",
+        "Material": "Beetroot peels",
+        "Subproduct": "Beetroot peel dye",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Beetroot",
+        "Material": "Beetroot peels",
+        "Subproduct": "Beetroot peel chips",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Beetroot",
+        "Material": "Beetroot peels",
+        "Subproduct": "Beetroot peel chips",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Radish",
+        "Material": "Radish tops",
+        "Subproduct": "Radish top pesto",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Radish",
+        "Material": "Radish tops",
+        "Subproduct": "Radish top pesto",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Radish",
+        "Material": "Radish tops",
+        "Subproduct": "Radish top salad",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Turnip",
+        "Material": "Turnip peels",
+        "Subproduct": "Turnip peel soup",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Turnip",
+        "Material": "Turnip peels",
+        "Subproduct": "Turnip peel chips",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Strawberry",
+        "Material": "Peel",
+        "Subproduct": "Compost",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Spinach",
+        "Material": "Spinach stalks",
+        "Subproduct": "Spinach stalk smoothie",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Spinach",
+        "Material": "Spinach stalks",
+        "Subproduct": "Spinach stalk soup",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Kale",
+        "Material": "Kale stems",
+        "Subproduct": "Kale stem salad",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Kale",
+        "Material": "Kale stems",
+        "Subproduct": "Kale stem salad",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Kale",
+        "Material": "Kale stems",
+        "Subproduct": "Kale stem chips",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Broccoli",
+        "Material": "Broccoli stems",
+        "Subproduct": "Broccoli stem slaw",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Broccoli",
+        "Material": "Broccoli stems",
+        "Subproduct": "Broccoli stem slaw",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Broccoli",
+        "Material": "Broccoli stems",
+        "Subproduct": "Broccoli stem soup",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Leek",
+        "Material": "Leek greens",
+        "Subproduct": "Leek green omelette",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Leek",
+        "Material": "Leek greens",
+        "Subproduct": "Leek green omelette",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Leek",
+        "Material": "Leek greens",
+        "Subproduct": "Leek green soup",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Asparagus",
+        "Material": "Asparagus ends",
+        "Subproduct": "Asparagus end quiche",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Asparagus",
+        "Material": "Asparagus ends",
+        "Subproduct": "Asparagus end quiche",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Asparagus",
+        "Material": "Asparagus ends",
+        "Subproduct": "Asparagus end broth",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Asparagus",
+        "Material": "Asparagus ends",
+        "Subproduct": "Asparagus end broth",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Food",
+        "Source": "Eggs",
+        "Material": "Eggshells",
+        "Subproduct": "Calcium supplement",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Food",
+        "Source": "Eggs",
+        "Material": "Eggshells",
+        "Subproduct": "Calcium supplement",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Food",
+        "Source": "Eggs",
+        "Material": "Eggshells",
+        "Subproduct": "Abrasive cleaner",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Food",
+        "Source": "Eggs",
+        "Material": "Eggshells",
+        "Subproduct": "Abrasive cleaner",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Animal",
+        "Source": "Fish",
+        "Material": "Fish Scraps",
+        "Subproduct": "Fish emulsion",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Animal",
+        "Source": "Fish",
+        "Material": "Fish Scraps",
+        "Subproduct": "Fish emulsion",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Strawberry",
+        "Material": "Peel",
+        "Subproduct": "Flavoring Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Animal",
+        "Source": "Fish",
+        "Material": "Fish Scraps",
+        "Subproduct": "Fish oil",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Animal",
+        "Source": "Meat",
+        "Material": "Meat Trimmings",
+        "Subproduct": "Bone broth",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Animal",
+        "Source": "Meat",
+        "Material": "Meat Trimmings",
+        "Subproduct": "Bone broth",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Strawberry",
+        "Material": "Peel",
+        "Subproduct": "Dye",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Animal",
+        "Source": "Meat",
+        "Material": "Meat Trimmings",
+        "Subproduct": "Pet food",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Food",
+        "Source": "Nuts",
+        "Material": "Nut Shells",
+        "Subproduct": "Walnut shell powder",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Food",
+        "Source": "Nuts",
+        "Material": "Nut Shells",
+        "Subproduct": "Walnut shell powder",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Food",
+        "Source": "Nuts",
+        "Material": "Nut Shells",
+        "Subproduct": "Nut shell mulch",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Food",
+        "Source": "Nuts",
+        "Material": "Nut Shells",
+        "Subproduct": "Nut shell mulch",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Food",
+        "Source": "Nuts",
+        "Material": "Nut Shells",
+        "Subproduct": "Fire starters",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Food",
+        "Source": "Nuts",
+        "Material": "Nut Shells",
+        "Subproduct": "Fire starters",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Strawberry",
+        "Material": "Peel ",
+        "Subproduct": "Puree",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Herbs",
+        "Source": "Tea",
+        "Material": "Tea Bags",
+        "Subproduct": "Used tea leaves",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Herbs",
+        "Source": "Tea",
+        "Material": "Tea Bags",
+        "Subproduct": "Tea leaf mulch",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Herbs",
+        "Source": "Tea",
+        "Material": "Tea Bags",
+        "Subproduct": "Tea leaf mulch",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Strawberry",
+        "Material": "Pulp",
+        "Subproduct": "Jam",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Strawberry",
+        "Material": "Pulp",
+        "Subproduct": "Juice",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Strawberry",
+        "Material": " Pulp",
+        "Subproduct": "Flavoring Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Strawberry",
+        "Material": "Trim",
+        "Subproduct": "Compost",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Strawberry",
+        "Material": "Trim",
+        "Subproduct": "Animal Feed",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Strawberry",
+        "Material": "Trim",
+        "Subproduct": "Biomass",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Strawberry",
+        "Material": "Stems",
+        "Subproduct": "Compost",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Strawberry",
+        "Material": "Stems",
+        "Subproduct": "Tea",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Strawberry",
+        "Material": "Stems",
+        "Subproduct": "Flavoring",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Kiwi",
+        "Material": "Peel",
+        "Subproduct": "Jam",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Kiwi",
+        "Material": "Peel",
+        "Subproduct": "Preserves",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Kiwi",
+        "Material": "Pulp",
+        "Subproduct": "Puree",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Kiwi",
+        "Material": "Seeds",
+        "Subproduct": "Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Kiwi",
+        "Material": "Seeds",
+        "Subproduct": "Oil",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Kiwi",
+        "Material": "Stems",
+        "Subproduct": "Flavoring",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Kiwi",
+        "Material": "Leaves",
+        "Subproduct": "Tea",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Kiwi",
+        "Material": "Leaves",
+        "Subproduct": "Flavoring",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Kiwi",
+        "Material": "Trimmings",
+        "Subproduct": "Compost",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Peach",
+        "Material": "Seed",
+        "Subproduct": "Oil",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Peach",
+        "Material": "Seed",
+        "Subproduct": "Extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Peach",
+        "Material": "Leaves",
+        "Subproduct": "Flavoring",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Peach",
+        "Material": "Leaves",
+        "Subproduct": "Tea",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Beverage ",
+        "Source": "Coffee ",
+        "Material": "Coffee Grounds",
+        "Subproduct": "Biochar",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Beverage ",
+        "Source": "Coffee ",
+        "Material": "Coffee Grounds",
+        "Subproduct": "Biochar",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Beverage ",
+        "Source": "Coffee ",
+        "Material": "Coffee Grounds",
+        "Subproduct": "Mushroom Cultivation",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Beverage ",
+        "Source": "Coffee ",
+        "Material": "Coffee Grounds",
+        "Subproduct": "Compost",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Beverage ",
+        "Source": "Coffee ",
+        "Material": "Coffee Grounds",
+        "Subproduct": "Caffeine",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Tomatoes",
+        "Material": "Tomato skins",
+        "Subproduct": "Lycopene",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Tomatoes",
+        "Material": "Tomato skins",
+        "Subproduct": "Natural dyes",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Tomatoes",
+        "Material": "Tomato skins",
+        "Subproduct": "Natural dyes",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Carrots",
+        "Material": "Peels",
+        "Subproduct": "Pectin",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Carrots",
+        "Material": "Peels",
+        "Subproduct": "Natural dyes",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Carrots",
+        "Material": "Peels",
+        "Subproduct": "Natural dyes",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Grains",
+        "Source": "Wheat",
+        "Material": "Bran",
+        "Subproduct": "Fiber supplements",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Grains",
+        "Source": "Wheat",
+        "Material": "Bran",
+        "Subproduct": "Animal feed",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Grains",
+        "Source": "Rice",
+        "Material": "Husks ",
+        "Subproduct": "Bio-char",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Grains",
+        "Source": "Rice",
+        "Material": "Husks ",
+        "Subproduct": "Bio-char ",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Grains",
+        "Source": "Rice",
+        "Material": "Husks",
+        "Subproduct": "Silica",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Dairy",
+        "Source": "Milk",
+        "Material": "Whey",
+        "Subproduct": "Protein supplements",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Dairy",
+        "Source": "Milk",
+        "Material": "Whey ",
+        "Subproduct": "Protein supplements ",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Dairy",
+        "Source": "Milk",
+        "Material": "Whey",
+        "Subproduct": "Lactose",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Meat",
+        "Source": "Bones",
+        "Material": "Bone meal",
+        "Subproduct": "Animal feed",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Meat",
+        "Source": "Bones",
+        "Material": "Bone meal",
+        "Subproduct": "Fertilizer",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Meat",
+        "Source": "Fat",
+        "Material": "Rendered fat",
+        "Subproduct": "Biofuel",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Meat",
+        "Source": "Fat",
+        "Material": "Rendered fat",
+        "Subproduct": "Soap",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Seafood",
+        "Source": "Fish",
+        "Material": "Fish scales",
+        "Subproduct": "Collagen",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Seafood",
+        "Source": "Fish ",
+        "Material": "Fish scales",
+        "Subproduct": "Collagen ",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Seafood",
+        "Source": "Fish",
+        "Material": "Fish scales",
+        "Subproduct": "Bio-plastics",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Grapes",
+        "Material": "Grape skins",
+        "Subproduct": "Resveratrol",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Grapes",
+        "Material": "Grape skins",
+        "Subproduct": "Natural dyes",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Pineapples",
+        "Material": "Pineapple cores",
+        "Subproduct": "Bromelain",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Pineapples",
+        "Material": "Pineapple cores",
+        "Subproduct": "Bromelain",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Pineapples",
+        "Material": "Pineapple leaves",
+        "Subproduct": "Natural fibers",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Avocados",
+        "Material": "Avocado pits",
+        "Subproduct": "Avocado oil",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Avocados",
+        "Material": "Avocado pits ",
+        "Subproduct": "Avocado oil",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Avocados",
+        "Material": "Avocado skins",
+        "Subproduct": "Natural dyes",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Cucumbers",
+        "Material": "Cucumber peels",
+        "Subproduct": "Natural dyes",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Cucumbers",
+        "Material": "Cucumber peels",
+        "Subproduct": "Animal feed",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Lettuce",
+        "Material": "Lettuce leaves",
+        "Subproduct": "Compost",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Lettuce",
+        "Material": "Lettuce leaves",
+        "Subproduct": "Animal feed",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Peppers",
+        "Material": "Pepper seeds",
+        "Subproduct": "Pepper oil",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Peppers",
+        "Material": "Pepper skins",
+        "Subproduct": "Natural dyes",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Grains",
+        "Source": "Barley",
+        "Material": "Barley husks",
+        "Subproduct": "Bioethanol",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Grains",
+        "Source": "Barley",
+        "Material": "Barley husks",
+        "Subproduct": "Animal feed",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Grains",
+        "Source": "Corn",
+        "Material": "Corn cobs",
+        "Subproduct": "Biofuel",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Grains",
+        "Source": "Corn",
+        "Material": "Corn husks",
+        "Subproduct": "Natural fibers",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Grains",
+        "Source": "Corn",
+        "Material": "Corn husks ",
+        "Subproduct": "Natural fibers",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Grains",
+        "Source": "Oats",
+        "Material": "Oat hulls",
+        "Subproduct": "Biofuel",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Grains",
+        "Source": "Oats",
+        "Material": "Oat hulls",
+        "Subproduct": "Animal feed",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Dairy",
+        "Source": "Cheese",
+        "Material": "Whey",
+        "Subproduct": "Whey protein",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Dairy",
+        "Source": "Cheese",
+        "Material": "Whey",
+        "Subproduct": "Lactose",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Hides ",
+        "Source": "Leather",
+        "Material": "Leather scraps",
+        "Subproduct": "Gelatin",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Hides ",
+        "Source": "Leather",
+        "Material": "Leather scraps",
+        "Subproduct": "Gelatin",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Hides ",
+        "Source": "Leather",
+        "Material": "Leather scraps",
+        "Subproduct": "Bio-composites",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Seafood",
+        "Source": "Shellfish",
+        "Material": "Shellfish shells",
+        "Subproduct": "Chitosan",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Seafood",
+        "Source": "Shellfish",
+        "Material": "Shellfish shells",
+        "Subproduct": "Chitosan",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Seafood",
+        "Source": "Shellfish",
+        "Material": "Shellfish shells",
+        "Subproduct": "Calcium carbonate",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Grains",
+        "Source": "Sorghum",
+        "Material": "Sorghum husks",
+        "Subproduct": "Biofuel",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Grains",
+        "Source": "Sorghum",
+        "Material": "Sorghum husks",
+        "Subproduct": "Animal feed",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Dairy",
+        "Source": "Butter",
+        "Material": "Butter whey",
+        "Subproduct": "Lactose",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Dairy",
+        "Source": "Butter",
+        "Material": "Butter whey",
+        "Subproduct": "Protein supplements",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Meat",
+        "Source": "Fish",
+        "Material": "Fish bones",
+        "Subproduct": "Hydroxyapatite",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Meat",
+        "Source": "Fish",
+        "Material": "Fish bones",
+        "Subproduct": "Calcium supplements",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Seafood",
+        "Source": "Crabs",
+        "Material": "Crab shells",
+        "Subproduct": "Chitin",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Seafood",
+        "Source": "Crabs",
+        "Material": "Crab shells",
+        "Subproduct": "Calcium carbonate",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Beverage",
+        "Source": "Tea",
+        "Material": "Tea leaves",
+        "Subproduct": "Compost",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Beverage",
+        "Source": "Tea",
+        "Material": "Tea leaves",
+        "Subproduct": "Natural dyes",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Glass",
+        "Source": "Tempered glass",
+        "Material": "Glass shards",
+        "Subproduct": "Glass shards",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Glass",
+        "Source": "Broken",
+        "Material": "Broken glass",
+        "Subproduct": "Aggregate",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Plastic",
+        "Source": "Plastic Packaging Waste",
+        "Material": "PVC Pipes",
+        "Subproduct": "Recycled PVC",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Leather",
+        "Source": "Belts",
+        "Material": "Leather belt scraps",
+        "Subproduct": "Leather patchwork",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Ceramic",
+        "Source": "Porcelain",
+        "Material": "Porcelain shards",
+        "Subproduct": "Porcelain jewelry",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Rubber",
+        "Source": "Used tires",
+        "Material": "Tire particules",
+        "Subproduct": "Fuel",
+        "": ""
+    },
+    {
+        "Type": "Mechanic ",
+        "Category": "Electronics",
+        "Source": "Batteries",
+        "Material": "Lithium",
+        "Subproduct": "Industrial applications",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Plastic",
+        "Source": "Bottles",
+        "Material": "PET plastic",
+        "Subproduct": "Pellets",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Plastic",
+        "Source": "Bottles",
+        "Material": "PET plastic",
+        "Subproduct": "Polyester fibers",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Paper",
+        "Source": "Newspapers",
+        "Material": "Recycled paper",
+        "Subproduct": "Paper products",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Paper",
+        "Source": "Newspapers",
+        "Material": "Recycled paper",
+        "Subproduct": "Insulation material",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metal",
+        "Source": "Cans ",
+        "Material": "Aluminum",
+        "Subproduct": "Recycled aluminum",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metal",
+        "Source": "Cans",
+        "Material": "Aluminum",
+        "Subproduct": "Recycled aluminum",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metal",
+        "Source": "Cans",
+        "Material": "Aluminum",
+        "Subproduct": "Aluminum sheets",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Glass",
+        "Source": "Bottles",
+        "Material": "Glass shards",
+        "Subproduct": "Recycled glass",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Glass",
+        "Source": "Bottles",
+        "Material": "Glass shards",
+        "Subproduct": "Glassphalt",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Textile",
+        "Source": "Cloth waste ",
+        "Material": "Cotton fabric",
+        "Subproduct": "Recycled fibers",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Textile",
+        "Source": "Cloth waste ",
+        "Material": "Cotton fabric",
+        "Subproduct": "Insulation material",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Wood",
+        "Source": "Pallets",
+        "Material": "Wood chips",
+        "Subproduct": "Particleboard",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Wood",
+        "Source": "Pallets",
+        "Material": "Wood chips",
+        "Subproduct": "Mulch",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Electronics",
+        "Source": "Devices",
+        "Material": "Circuit boards",
+        "Subproduct": "Reclaimed metals",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Electronics",
+        "Source": "Devices",
+        "Material": "Circuit boards",
+        "Subproduct": "Reclaimed plastics",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Paper",
+        "Source": "Cardboard",
+        "Material": "Recycled cardboard",
+        "Subproduct": "Paper products",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Paper",
+        "Source": "Cardboard",
+        "Material": "Recycled cardboard",
+        "Subproduct": "Insulation material",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metal",
+        "Source": "Electronics",
+        "Material": "Copper wiring",
+        "Subproduct": "Recycled copper",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metal",
+        "Source": "Electronics",
+        "Material": "Copper wiring",
+        "Subproduct": "Alloy production",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Glass",
+        "Source": "Windows",
+        "Material": "Broken glass",
+        "Subproduct": "Recycled glass",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Glass",
+        "Source": "Windows",
+        "Material": "Broken glass",
+        "Subproduct": "Glass fiber",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Wood",
+        "Source": "Furniture",
+        "Material": "Wood offcuts",
+        "Subproduct": "Particleboard",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Wood",
+        "Source": "Furniture",
+        "Material": "Wood offcuts",
+        "Subproduct": "Biochar",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Electronics",
+        "Source": "Batteries",
+        "Material": "Lithium",
+        "Subproduct": "Reclaimed lithium",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Electronics",
+        "Source": "Batteries",
+        "Material": "Lithium",
+        "Subproduct": "Industrial applications",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Plastic",
+        "Source": "Bags",
+        "Material": "HDPE plastic",
+        "Subproduct": "Recycled pellets",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Plastic",
+        "Source": "Bags",
+        "Material": "HDPE plastic",
+        "Subproduct": "Composite materials",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Paper",
+        "Source": "Magazines",
+        "Material": "Glossy paper",
+        "Subproduct": "Recycled paper",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Paper",
+        "Source": "Magazines",
+        "Material": "Glossy paper",
+        "Subproduct": "Paperboard",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metal",
+        "Source": "Pipes",
+        "Material": "Steel",
+        "Subproduct": "Recycled steel",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metal",
+        "Source": "Pipes",
+        "Material": "Steel",
+        "Subproduct": "Alloy production",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Glass",
+        "Source": "Light bulbs",
+        "Material": "Glass shards",
+        "Subproduct": "Recycled glass",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Glass",
+        "Source": "Light bulbs",
+        "Material": "Glass shards",
+        "Subproduct": "Glassphalt",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Wood",
+        "Source": "Branches",
+        "Material": "Wood chips",
+        "Subproduct": "Particleboard",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Wood",
+        "Source": "Branches",
+        "Material": "Wood chips",
+        "Subproduct": "Biochar",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Lemon",
+        "Material": "Lemon Peels",
+        "Subproduct": "Pectin",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Lemon",
+        "Material": "Lemon Peels",
+        "Subproduct": "Essential Oil",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Lemon",
+        "Material": "Lemon Peels",
+        "Subproduct": "Animal Feed",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Pumpkin",
+        "Material": "Pumpkin Seeds",
+        "Subproduct": "Pumpkin Seed Oil",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Pumpkin",
+        "Material": "Pumpkin Flesh",
+        "Subproduct": "Puree",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Pumpkin",
+        "Material": "Pumpkin Skin",
+        "Subproduct": "Biofuel",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Pomegranate",
+        "Material": "Pomegranate Peels",
+        "Subproduct": "Natural Dye",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Pomegranate",
+        "Material": "Pomegranate Seeds",
+        "Subproduct": "Seed Oil",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Pomegranate",
+        "Material": "Pomegranate Seeds",
+        "Subproduct": "Animal Feed",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Papaya",
+        "Material": "Papaya Seeds",
+        "Subproduct": "Seed Oil",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Papaya",
+        "Material": "Papaya Skins",
+        "Subproduct": "Animal Feed",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Papaya",
+        "Material": "Papaya Flesh",
+        "Subproduct": "Puree",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Cabbage",
+        "Material": "Cabbage Leaves",
+        "Subproduct": "Biofuel",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Cabbage",
+        "Material": "Cabbage Core",
+        "Subproduct": "Animal Feed",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Cabbage",
+        "Material": "Cabbage Leaves",
+        "Subproduct": "Compost",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Nut",
+        "Source": "Almond",
+        "Material": "Almond Shells",
+        "Subproduct": "Activated Charcoal",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Nut",
+        "Source": "Almond",
+        "Material": "Almond Hulls",
+        "Subproduct": "Animal Feed",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Nut",
+        "Source": "Almond",
+        "Material": "Almond Hulls",
+        "Subproduct": "Compost",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Soybean",
+        "Material": "Soybean Hulls",
+        "Subproduct": "Animal Feed",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Soybean",
+        "Material": "Soybean Hulls",
+        "Subproduct": "Biofuel",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Soybean",
+        "Material": "Soybean Meal",
+        "Subproduct": "Protein Isolate",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Peach",
+        "Material": "Peach Pits",
+        "Subproduct": "Biofuel",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Peach",
+        "Material": "Peach Pits",
+        "Subproduct": "Activated Charcoal",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Peach",
+        "Material": "Peach Flesh",
+        "Subproduct": "Puree",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metal",
+        "Source": "Copper",
+        "Material": "Copper Wiring",
+        "Subproduct": "Recycled Copper",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metal",
+        "Source": "Copper",
+        "Material": "Copper Wiring",
+        "Subproduct": "Copper Sheets",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metal",
+        "Source": "Copper",
+        "Material": "Copper Wiring",
+        "Subproduct": "Copper Pipes",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Wood",
+        "Source": "Wooden Pallets",
+        "Material": "Wood",
+        "Subproduct": "Biofuel",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Rubber",
+        "Source": "Car Tires",
+        "Material": "Rubber",
+        "Subproduct": "Crumb Rubber",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Rubber",
+        "Source": "Car Tires",
+        "Material": "Rubber",
+        "Subproduct": "Rubber Mulch",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Rubber",
+        "Source": "Car Tires",
+        "Material": "Rubber",
+        "Subproduct": "Recycled Rubber Products",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Spices",
+        "Source": "Cinnamon",
+        "Material": "Cinnamon Sticks",
+        "Subproduct": "Essential Oil",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Spices",
+        "Source": "Cinnamon",
+        "Material": "Cinnamon Bark",
+        "Subproduct": "Natural Dye",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Herbs",
+        "Source": "Mint",
+        "Material": "Mint Stems",
+        "Subproduct": "Compost",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Herbs",
+        "Source": "Mint",
+        "Material": "Mint Leaves",
+        "Subproduct": "Essential Oil",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Olive",
+        "Material": "Olive Pits",
+        "Subproduct": "Biochar",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Olive",
+        "Material": "Olive Pomace",
+        "Subproduct": "Olive Pomace Oil",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Seeds",
+        "Source": "Sunflower",
+        "Material": "Sunflower Hulls",
+        "Subproduct": "Biomass Pellets",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Seeds",
+        "Source": "Sunflower",
+        "Material": "Sunflower Seeds",
+        "Subproduct": "Sunflower Oil",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Spices",
+        "Source": "Cloves",
+        "Material": "Clove Stems",
+        "Subproduct": "Essential Oil",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Spices",
+        "Source": "Cloves",
+        "Material": "Clove Stems",
+        "Subproduct": "Natural Dye",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Herbs",
+        "Source": "Basil",
+        "Material": "Basil Stems",
+        "Subproduct": "Essential Oil",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Herbs",
+        "Source": "Basil",
+        "Material": "Basil Leaves",
+        "Subproduct": "Natural Dye",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Peas",
+        "Material": "Pea Pods",
+        "Subproduct": "Animal Feed",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Peas",
+        "Material": "Pea Pods",
+        "Subproduct": "Biochar",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Tubers",
+        "Source": "Yams",
+        "Material": "Yam Peels",
+        "Subproduct": "Animal Feed",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Tubers",
+        "Source": "Yams",
+        "Material": "Yam Peels",
+        "Subproduct": "Biochar",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Grains",
+        "Source": "Millet",
+        "Material": "Millet Husks",
+        "Subproduct": "Biomass Pellets",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Grains",
+        "Source": "Millet",
+        "Material": "Millet Bran",
+        "Subproduct": "Animal Feed",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Cassava",
+        "Material": "Cassava Peels",
+        "Subproduct": "Fiber, Biofuel",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Cassava",
+        "Material": "Cassava Pulp",
+        "Subproduct": "Animal Feed",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Cassava",
+        "Material": "Wastewater",
+        "Subproduct": "Nutrient-rich",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Plastic",
+        "Source": "Packaging Films",
+        "Material": "LDPE",
+        "Subproduct": "Recycled Plastic",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Plastic",
+        "Source": "Packaging Films",
+        "Material": "LDPE",
+        "Subproduct": "Plastic Lumber",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metal",
+        "Source": "Steel",
+        "Material": "Steel Cans",
+        "Subproduct": "Recycled Steel",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metal",
+        "Source": "Steel",
+        "Material": "Steel Cans",
+        "Subproduct": "Steel Alloys",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Nuts",
+        "Source": "Walnuts",
+        "Material": "Walnut Shells",
+        "Subproduct": "Abrasive Material",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Nuts",
+        "Source": "Walnuts",
+        "Material": "Walnut Shells",
+        "Subproduct": "Biochar",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Nuts",
+        "Source": "Pecans",
+        "Material": "Pecan Shells",
+        "Subproduct": "Biochar",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Nuts",
+        "Source": "Pecans",
+        "Material": "Pecan Shells",
+        "Subproduct": "Animal Bedding",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Nuts",
+        "Source": "Pistachios",
+        "Material": "Pistachio Shells",
+        "Subproduct": "Biochar",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Nuts",
+        "Source": "Pistachios",
+        "Material": "Pistachio Shells",
+        "Subproduct": "Mulch",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Legumes",
+        "Source": "Peanuts",
+        "Material": "Peanut Shells",
+        "Subproduct": "Biochar",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Legumes",
+        "Source": "Peanuts",
+        "Material": "Peanut Shells",
+        "Subproduct": "Animal Bedding",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Legumes",
+        "Source": "Lentils",
+        "Material": "Lentil Hulls",
+        "Subproduct": "Biochar",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Legumes",
+        "Source": "Lentils",
+        "Material": "Lentil Hulls",
+        "Subproduct": "Animal Feed",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Rubber",
+        "Source": "Inner Tubes",
+        "Material": "Crumb Rubber",
+        "Subproduct": "Rubber Mats",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Rubber",
+        "Source": "Inner Tubes",
+        "Material": "Crumb Rubber",
+        "Subproduct": "Playground Surfacing",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Textile",
+        "Source": "Nylon Fabric",
+        "Material": "Nylon Scraps",
+        "Subproduct": "Recycled Nylon Fiber",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Textile",
+        "Source": "Nylon Fabric",
+        "Material": "Nylon Scraps",
+        "Subproduct": "Insulation Material",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Textile",
+        "Source": "Silk",
+        "Material": "Silk Fabric",
+        "Subproduct": "Recycled Silk Fiber",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Textile",
+        "Source": "Silk",
+        "Material": "Silk Fabric",
+        "Subproduct": "Paper",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Grain",
+        "Source": "Millet",
+        "Material": "Millet Stalks",
+        "Subproduct": "Biochar",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Grain",
+        "Source": "Millet",
+        "Material": "Millet Stalks",
+        "Subproduct": "Silage",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Grain",
+        "Source": "Quinoa",
+        "Material": "Quinoa Husks",
+        "Subproduct": "Animal Feed",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Grain",
+        "Source": "Quinoa",
+        "Material": "Quinoa Husks",
+        "Subproduct": "Biofuel",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Grain",
+        "Source": "Quinoa",
+        "Material": "Quinoa Stalks",
+        "Subproduct": "Biochar",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Grain",
+        "Source": "Quinoa",
+        "Material": "Quinoa Stalks",
+        "Subproduct": "Silage",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Grain",
+        "Source": "Rye",
+        "Material": "Rye Straw",
+        "Subproduct": "Straw Bale",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Grain",
+        "Source": "Rye",
+        "Material": "Rye Straw",
+        "Subproduct": "Bioethanol",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Grain",
+        "Source": "Rye",
+        "Material": "Rye Bran",
+        "Subproduct": "Animal Feed",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Grain",
+        "Source": "Rye",
+        "Material": "Rye Bran",
+        "Subproduct": "Dietary Fiber",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Grain",
+        "Source": "Buckwheat",
+        "Material": "Buckwheat Hulls",
+        "Subproduct": "Animal Feed",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Grain",
+        "Source": "Buckwheat",
+        "Material": "Buckwheat Hulls",
+        "Subproduct": "Biofuel",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Grain",
+        "Source": "Buckwheat",
+        "Material": "Buckwheat Stalks",
+        "Subproduct": "Biochar",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Grain",
+        "Source": "Buckwheat",
+        "Material": "Buckwheat Stalks",
+        "Subproduct": "Silage",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Grain",
+        "Source": "Spelt",
+        "Material": "Spelt Husks",
+        "Subproduct": "Animal Feed",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Grain",
+        "Source": "Spelt",
+        "Material": "Spelt Husks",
+        "Subproduct": "Bioethanol",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Grain",
+        "Source": "Spelt",
+        "Material": "Spelt Straw",
+        "Subproduct": "Straw Bale",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Grain",
+        "Source": "Spelt",
+        "Material": "Spelt Straw",
+        "Subproduct": "Biochar",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Grain",
+        "Source": "Amaranth",
+        "Material": "Amaranth Husks",
+        "Subproduct": "Animal Feed",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Grain",
+        "Source": "Amaranth",
+        "Material": "Amaranth Husks",
+        "Subproduct": "Biofuel",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Grain",
+        "Source": "Amaranth",
+        "Material": "Amaranth Stalks",
+        "Subproduct": "Biochar",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Grain",
+        "Source": "Amaranth",
+        "Material": "Amaranth Stalks",
+        "Subproduct": "Silage",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Textile",
+        "Source": "Canvas",
+        "Material": "Canvas Scraps",
+        "Subproduct": "Recycled Canvas Fiber",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Textile",
+        "Source": "Canvas",
+        "Material": "Canvas Scraps",
+        "Subproduct": "Insulation Material",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Textile",
+        "Source": "Canvas",
+        "Material": "Canvas Scraps",
+        "Subproduct": "Paper",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Textile",
+        "Source": "Rayon",
+        "Material": "Rayon Scraps",
+        "Subproduct": "Recycled Rayon Fiber",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Textile",
+        "Source": "Rayon",
+        "Material": "Rayon Scraps",
+        "Subproduct": "Insulation Material",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Textile",
+        "Source": "Rayon",
+        "Material": "Rayon Scraps",
+        "Subproduct": "Mulch",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Textile",
+        "Source": "Lycra",
+        "Material": "Lycra Scraps",
+        "Subproduct": "Recycled Lycra Fiber",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Textile",
+        "Source": "Lycra",
+        "Material": "Lycra Scraps",
+        "Subproduct": "Insulation Material",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Textile",
+        "Source": "Lycra",
+        "Material": "Lycra Scraps",
+        "Subproduct": "Rubberized Material",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Textile",
+        "Source": "Fleece",
+        "Material": "Fleece Scraps",
+        "Subproduct": "Recycled Fleece Fiber",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Textile",
+        "Source": "Fleece",
+        "Material": "Fleece Scraps",
+        "Subproduct": "Insulation Material",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Textile",
+        "Source": "Fleece",
+        "Material": "Fleece Scraps",
+        "Subproduct": "Stuffing Material",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Textile",
+        "Source": "Linen",
+        "Material": "Linen Scraps",
+        "Subproduct": "Recycled Linen Fiber",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Textile",
+        "Source": "Linen",
+        "Material": "Linen Scraps",
+        "Subproduct": "Insulation Material",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Textile",
+        "Source": "Linen",
+        "Material": "Linen Scraps",
+        "Subproduct": "Paper",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Textile",
+        "Source": "Hemp",
+        "Material": "Hemp Scraps",
+        "Subproduct": "Recycled Hemp Fiber",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Textile",
+        "Source": "Hemp",
+        "Material": "Hemp Scraps",
+        "Subproduct": "Insulation Material",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Textile",
+        "Source": "Hemp",
+        "Material": "Hemp Scraps",
+        "Subproduct": "Mulch",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Textile",
+        "Source": "Jute",
+        "Material": "Jute Scraps",
+        "Subproduct": "Recycled Jute Fiber",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Textile",
+        "Source": "Jute",
+        "Material": "Jute Scraps",
+        "Subproduct": "Insulation Material",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Textile",
+        "Source": "Jute",
+        "Material": "Jute Scraps",
+        "Subproduct": "Mulch",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Textile",
+        "Source": "Burlap",
+        "Material": "Burlap Scraps",
+        "Subproduct": "Recycled Burlap Fiber",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Textile",
+        "Source": "Burlap",
+        "Material": "Burlap Scraps",
+        "Subproduct": "Insulation Material",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Textile",
+        "Source": "Burlap",
+        "Material": "Burlap Scraps",
+        "Subproduct": "Mulch",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Textile",
+        "Source": "Velvet",
+        "Material": "Velvet Scraps",
+        "Subproduct": "Recycled Velvet Fiber",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Textile",
+        "Source": "Velvet",
+        "Material": "Velvet Scraps",
+        "Subproduct": "Insulation Material",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Textile",
+        "Source": "Velvet",
+        "Material": "Velvet Scraps",
+        "Subproduct": "Stuffing Material",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Textile",
+        "Source": "Tweed",
+        "Material": "Tweed Scraps",
+        "Subproduct": "Recycled Tweed Fiber",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Textile",
+        "Source": "Tweed",
+        "Material": "Tweed Scraps",
+        "Subproduct": "Insulation Material",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Textile",
+        "Source": "Tweed",
+        "Material": "Tweed Scraps",
+        "Subproduct": "Stuffing Material",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Textile",
+        "Source": "Flannel",
+        "Material": "Flannel Scraps",
+        "Subproduct": "Recycled Flannel Fiber",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Textile",
+        "Source": "Flannel",
+        "Material": "Flannel Scraps",
+        "Subproduct": "Insulation Material",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Textile",
+        "Source": "Flannel",
+        "Material": "Flannel Scraps",
+        "Subproduct": "Stuffing Material",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metal",
+        "Source": "Brass Fixtures",
+        "Material": "Brass Scrap",
+        "Subproduct": "Recycled Brass",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metal",
+        "Source": "Brass Fixtures",
+        "Material": "Brass Scrap",
+        "Subproduct": "Brass Alloys",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metal",
+        "Source": "Lead Batteries",
+        "Material": "Lead Scrap",
+        "Subproduct": "Recycled Lead",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metal",
+        "Source": "Lead Batteries",
+        "Material": "Lead Scrap",
+        "Subproduct": "Lead Alloys",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metal",
+        "Source": "Zinc Sheets",
+        "Material": "Zinc Scrap",
+        "Subproduct": "Recycled Zinc",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metal",
+        "Source": "Zinc Sheets",
+        "Material": "Zinc Scrap",
+        "Subproduct": "Zinc Oxide",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metal",
+        "Source": "Tin",
+        "Material": "Tin Cans",
+        "Subproduct": "Recycled Tin",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metal",
+        "Source": "Tin",
+        "Material": "Tin Cans",
+        "Subproduct": "Tin Scrap",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metal",
+        "Source": "Nickel Plating",
+        "Material": "Nickel Scrap",
+        "Subproduct": "Recycled Nickel",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metal",
+        "Source": "Nickel Plating",
+        "Material": "Nickel Scrap",
+        "Subproduct": "Nickel Alloys",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metal",
+        "Source": "Titanium Parts",
+        "Material": "Titanium Scrap",
+        "Subproduct": "Recycled Titanium",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metal",
+        "Source": "Titanium Parts",
+        "Material": "Titanium Scrap",
+        "Subproduct": "Titanium Alloys",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metal",
+        "Source": "Steel",
+        "Material": "Stainless Steel",
+        "Subproduct": "Stainless Scrap",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metal",
+        "Source": "Iron",
+        "Material": "Iron Pipes",
+        "Subproduct": "Iron Scrap",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metal",
+        "Source": "Iron",
+        "Material": "Iron Pipes",
+        "Subproduct": "Iron Scrap",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metal",
+        "Source": "Tantalum Capacitors",
+        "Material": "Tantalum Scrap",
+        "Subproduct": "Recycled Tantalum",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metal",
+        "Source": "Tantalum Capacitors",
+        "Material": "Tantalum Scrap",
+        "Subproduct": "Tantalum Alloys",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metal",
+        "Source": "Gallium Electronics",
+        "Material": "Gallium Scrap",
+        "Subproduct": "Recycled Gallium",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metal",
+        "Source": "Gallium Electronics",
+        "Material": "Gallium Scrap",
+        "Subproduct": "Gallium Compounds",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Ceramics",
+        "Source": "Ceramic Tiles",
+        "Material": "Broken Ceramics",
+        "Subproduct": "Recycled Ceramics",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Ceramics",
+        "Source": "Ceramic Tiles",
+        "Material": "Broken Ceramics",
+        "Subproduct": "Ceramic Aggregate",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Ceramics",
+        "Source": "Ceramic Dishes",
+        "Material": "Broken Ceramics",
+        "Subproduct": "Recycled Ceramics",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Ceramics",
+        "Source": "Ceramic Dishes",
+        "Material": "Broken Ceramics",
+        "Subproduct": "Ceramic Powder",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Ceramics",
+        "Source": "Porcelain",
+        "Material": "Porcelain Fixtures",
+        "Subproduct": "Broken Porcelain",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Ceramics",
+        "Source": "Porcelain",
+        "Material": "Porcelain Fixtures",
+        "Subproduct": "Porcelain Aggregate",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Electronics",
+        "Source": "Cables",
+        "Material": "Cable Scrap",
+        "Subproduct": "Recycled Copper",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Electronics",
+        "Source": "Cables",
+        "Material": "Cable Scrap",
+        "Subproduct": "Recycled Plastic",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Electronics",
+        "Source": "Cables",
+        "Material": "Cable Scrap",
+        "Subproduct": "Recovered Aluminum",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Nut",
+        "Source": "Walnut",
+        "Material": "Walnut Shells",
+        "Subproduct": "Walnut Shell Flour",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Nut",
+        "Source": "Walnut",
+        "Material": "Walnut Shells",
+        "Subproduct": "Animal Bedding",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Nut",
+        "Source": "Walnut",
+        "Material": "Walnut Shells",
+        "Subproduct": "Compost",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Nut",
+        "Source": "Cashew Shells",
+        "Material": "Cashew Shell",
+        "Subproduct": "Cashew Nut Shell Liquid",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Nut",
+        "Source": "Cashew Shells",
+        "Material": "Cashew Shell",
+        "Subproduct": "Biofuel",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Nut",
+        "Source": "Cashew Shells",
+        "Material": "Cashew Shell",
+        "Subproduct": "Compost",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Nut",
+        "Source": "Hazelnut Shells",
+        "Material": "Hazelnut Shell",
+        "Subproduct": "Biomass Fuel",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Nut",
+        "Source": "Hazelnut Shells",
+        "Material": "Hazelnut Shell",
+        "Subproduct": "Animal Bedding",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Nut",
+        "Source": "Hazelnut Shells",
+        "Material": "Hazelnut Shell",
+        "Subproduct": "Mulch",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Nut",
+        "Source": "Pecan",
+        "Material": "Pecan Shells",
+        "Subproduct": "Biomass Fuel",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Nut",
+        "Source": "Pecan",
+        "Material": "Pecan Shells",
+        "Subproduct": "Animal Bedding",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Nut",
+        "Source": "Pecan",
+        "Material": "Pecan Shells",
+        "Subproduct": "Mulch",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Nut",
+        "Source": "Macadamia Nut Shells",
+        "Material": "Macadamia Nut Shell",
+        "Subproduct": "Biomass Fuel",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Nut",
+        "Source": "Macadamia Nut Shells",
+        "Material": "Macadamia Nut Shell",
+        "Subproduct": "Activated Carbon",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Nut",
+        "Source": "Macadamia Nut Shells",
+        "Material": "Macadamia Nut Shell",
+        "Subproduct": "Compost",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Nut",
+        "Source": "Chestnut Shells",
+        "Material": "Chestnut Shell",
+        "Subproduct": "Biomass Fuel",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Nut",
+        "Source": "Chestnut Shells",
+        "Material": "Chestnut Shell",
+        "Subproduct": "Animal Bedding",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Nut",
+        "Source": "Chestnut Shells",
+        "Material": "Chestnut Shell",
+        "Subproduct": "Compost",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Durian Shells",
+        "Material": "Durian Shell",
+        "Subproduct": "Activated Carbon",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Durian Shells",
+        "Material": "Durian Shell",
+        "Subproduct": "Biochar",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Jujube Seeds",
+        "Material": "Jujube Seed",
+        "Subproduct": "Oil",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Jujube Seeds",
+        "Material": "Jujube Seed",
+        "Subproduct": "Animal Feed",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Jujube Seeds",
+        "Material": "Jujube Seed",
+        "Subproduct": "Biofuel",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Radish",
+        "Material": "Radish Leaves",
+        "Subproduct": "Animal Feed",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Radish",
+        "Material": "Radish Leaves",
+        "Subproduct": "Biofuel",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Radish",
+        "Material": "Radish Leaves",
+        "Subproduct": "Compost",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Mangosteen Rinds",
+        "Material": "Mangosteen Rind",
+        "Subproduct": "Biochar",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Mangosteen Rinds",
+        "Material": "Mangosteen Rind",
+        "Subproduct": "Natural Dye",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Mangosteen Rinds",
+        "Material": "Mangosteen Rind",
+        "Subproduct": "Animal Feed",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Kale",
+        "Material": "Kale Stems",
+        "Subproduct": "Biofuel",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Kale",
+        "Material": "Kale Stems",
+        "Subproduct": "Animal Feed",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Kale",
+        "Material": "Kale Stems",
+        "Subproduct": "Compost",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Passionfruit",
+        "Material": "Passion Fruit Seeds",
+        "Subproduct": "Animal Feed",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Passionfruit",
+        "Material": "Passion Fruit Seeds",
+        "Subproduct": "Biofuel",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metals",
+        "Source": "Construction debris",
+        "Material": "Rebar offcuts",
+        "Subproduct": "Recycled steel",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metals",
+        "Source": "Construction debris",
+        "Material": "Rebar offcuts",
+        "Subproduct": "Recycled steel",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metals",
+        "Source": "Construction debris",
+        "Material": "Structural steel beams",
+        "Subproduct": "Recycled steel",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metals",
+        "Source": "Construction debris",
+        "Material": "Structural steel beams",
+        "Subproduct": "Recycled steel",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metals",
+        "Source": "Construction debris",
+        "Material": "Metal fasteners",
+        "Subproduct": "Recycled metal alloys",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metals",
+        "Source": "Construction debris",
+        "Material": "Metal fasteners",
+        "Subproduct": "Recycled metal alloys",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metals",
+        "Source": "Construction debris",
+        "Material": "Aluminum siding",
+        "Subproduct": "Recycled aluminum",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metals",
+        "Source": "Construction debris",
+        "Material": "Aluminum siding",
+        "Subproduct": "Recycled aluminum",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metals",
+        "Source": "Construction debris",
+        "Material": "Galvanized steel",
+        "Subproduct": "Recycled steel",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metals",
+        "Source": "Construction debris",
+        "Material": "Galvanized steel",
+        "Subproduct": "Recycled steel",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Plastic",
+        "Source": "Toys",
+        "Material": "PVC toys",
+        "Subproduct": "Recycled PVC",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Plastic",
+        "Source": "",
+        "Material": "PVC toys",
+        "Subproduct": "Recycled PVC",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Plastic",
+        "Source": "Toys",
+        "Material": "PVC toys",
+        "Subproduct": "Recycled PVC",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Plastic",
+        "Source": "Grocery bags",
+        "Material": "LDPE grocery bags",
+        "Subproduct": "Recycled LDPE",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Plastic",
+        "Source": "Grocery bags",
+        "Material": "LDPE grocery bags",
+        "Subproduct": "Recycled LDPE",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Plastic",
+        "Source": "Grocery bags",
+        "Material": "LDPE grocery bags",
+        "Subproduct": "Recycled LDPE",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Plastic",
+        "Source": "Bubble wrap",
+        "Material": "LDPE bubble wrap",
+        "Subproduct": "Recycled LDPE",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Plastic",
+        "Source": "Bubble wrap",
+        "Material": "LDPE bubble wrap",
+        "Subproduct": "Recycled LDPE",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Plastic",
+        "Source": "Bubble wrap",
+        "Material": "LDPE bubble wrap",
+        "Subproduct": "Recycled LDPE",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Plastic",
+        "Source": "Disposable cups",
+        "Material": "PP disposable cups",
+        "Subproduct": "Recycled PP",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Plastic",
+        "Source": "Disposable cups",
+        "Material": "PP disposable cups",
+        "Subproduct": "Recycled PP",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Plastic",
+        "Source": "Disposable cups",
+        "Material": "PP disposable cups",
+        "Subproduct": "Recycled PP",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metal",
+        "Source": "Steel",
+        "Material": "Mill scale",
+        "Subproduct": "Iron oxide",
+        "": "CLAUDE AI"
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Metal",
+        "Source": "Steel",
+        "Material": "Mill scale",
+        "Subproduct": "Iron oxide",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Conifer",
+        "Source": "Pine tree",
+        "Material": "Pine needles",
+        "Subproduct": "Essential oils",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Conifer",
+        "Source": "Pine tree",
+        "Material": "Pine needles",
+        "Subproduct": "Essential oils",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Conifer ",
+        "Source": "Pine tree",
+        "Material": "Pine resin",
+        "Subproduct": "Rosin",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Conifer",
+        "Source": "Pine tree",
+        "Material": "Pine resin",
+        "Subproduct": "Rosin",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Grass",
+        "Source": "Sugarcane",
+        "Material": "Bagasse",
+        "Subproduct": "Cellulose fibers",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Grass",
+        "Source": "Sugarcane",
+        "Material": "Bagasse",
+        "Subproduct": "Cellulose fibers",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Grass",
+        "Source": "Sugarcane",
+        "Material": "Molasses",
+        "Subproduct": "Ethanol",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Grass",
+        "Source": "Sugarcane",
+        "Material": "Molasses",
+        "Subproduct": "Ethanol",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Flower",
+        "Source": "Sunflower ",
+        "Material": "Sunflower stalks ",
+        "Subproduct": "Cellulose ",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Flower",
+        "Source": "Sunflower ",
+        "Material": "Sunflower stalks ",
+        "Subproduct": "Biochar ",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fungi",
+        "Source": "Oyster mushroom",
+        "Material": "Mycelium",
+        "Subproduct": "Mycelium foam",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fungi",
+        "Source": "Oyster mushroom",
+        "Material": "Mycelium",
+        "Subproduct": "Mycelium foam",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Root",
+        "Source": "Cassava",
+        "Material": "Cassava peels",
+        "Subproduct": "Bioethanol",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Root",
+        "Source": "Cassava",
+        "Material": "Cassava peels",
+        "Subproduct": "Animal feed",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Seed",
+        "Source": "Moringa",
+        "Material": "Seed cake",
+        "Subproduct": "Flocculant",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Seed",
+        "Source": "Moringa",
+        "Material": "Seed cake",
+        "Subproduct": "Fertilizer",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Cactus",
+        "Source": "Prickly pear",
+        "Material": "Cladodes",
+        "Subproduct": "Mucilage",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Cactus",
+        "Source": "Prickly pear",
+        "Material": "Cladodes",
+        "Subproduct": "Dietary fiber",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Polymer",
+        "Source": "Kevlar vests",
+        "Material": "Aramid fibers",
+        "Subproduct": "Recycled aramid",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Polymer",
+        "Source": "Kevlar vests",
+        "Material": "Aramid fibers",
+        "Subproduct": "Recycled aramid",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Polymer",
+        "Source": "Kevlar vests",
+        "Material": "Aramid fibers",
+        "Subproduct": "Recycled aramid",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Textile",
+        "Source": "Cigarette filters",
+        "Material": "Cellulose acetate",
+        "Subproduct": "Recycled plastic",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Textile",
+        "Source": "Cigarette filters",
+        "Material": "Cellulose acetate",
+        "Subproduct": "Recycled plastic",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Paper",
+        "Source": "Cigarette filters",
+        "Material": "Cellulose fibers",
+        "Subproduct": "Recycled paper",
+        "": ""
+    },
+    {
+        "Type": "Mechanic",
+        "Category": "Paper",
+        "Source": "Cigarette filters",
+        "Material": "Cellulose fibers",
+        "Subproduct": "Recycled paper",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Durian",
+        "Material": "Durian rind",
+        "Subproduct": "Cellulose",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Durian",
+        "Material": "Durian rind",
+        "Subproduct": "Cellulose",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Durian",
+        "Material": "Durian seeds",
+        "Subproduct": "Gum",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Durian",
+        "Material": "Durian seeds",
+        "Subproduct": "Gum",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Avocado",
+        "Material": "Avocado seed",
+        "Subproduct": "Bioplastic",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Avocado",
+        "Material": "Avocado seed",
+        "Subproduct": "Bioplastic",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Garlic",
+        "Material": "Garlic skins",
+        "Subproduct": "Allicin extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Vegetable",
+        "Source": "Garlic",
+        "Material": "Garlic skins",
+        "Subproduct": "Allicin extract",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Nut",
+        "Source": "Cashew",
+        "Material": "Cashew nut shell liquid",
+        "Subproduct": "Cardanol",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Nut",
+        "Source": "Cashew",
+        "Material": "Cashew nut shell liquid",
+        "Subproduct": "Cardanol",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Mango",
+        "Material": "Mango pits",
+        "Subproduct": "Mango butter",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Fruit",
+        "Source": "Mango",
+        "Material": "Mango pits",
+        "Subproduct": "Mango butter",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Insect",
+        "Source": "Silkworm",
+        "Material": "Silk cocoons",
+        "Subproduct": "Sericin protein",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Insect",
+        "Source": "Silkworm",
+        "Material": "Silk cocoons",
+        "Subproduct": "Sericin protein",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Insect",
+        "Source": "Silkworm",
+        "Material": "Silkworm excrement",
+        "Subproduct": "Organic fertilizer",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Insect",
+        "Source": "Silkworm",
+        "Material": "Silkworm excrement",
+        "Subproduct": "Organic fertilizer",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Mollusk",
+        "Source": "Mussels",
+        "Material": "Mussel shells",
+        "Subproduct": "Calcium carbonate",
+        "": ""
+    },
+    {
+        "Type": "Organic",
+        "Category": "Mollusk",
+        "Source": "Mussels",
+        "Material": "Byssus threads",
+        "Subproduct": "Biopolymer",
+        "": ""
+    }
+]
