@@ -7,6 +7,7 @@ const crypto = require('crypto');
 const sgMail = require('@sendgrid/mail');
 const path = require('path');
 require('dotenv').config(); // Import dotenv to use environment variables
+
 const app = express();
 const saltRounds = 10;
 
@@ -33,7 +34,7 @@ const UserSchema = new mongoose.Schema({
     isVerified: { type: Boolean, default: false }
 });
 
-UserSchema.pre('save', async function(next) {
+UserSchema.pre('save', async function (next) {
     if (!this.isModified('password')) return next();
 
     try {
