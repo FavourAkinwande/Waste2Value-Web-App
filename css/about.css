@@ -4,6 +4,38 @@
     font-family: 'Poppins', sans-serif;
 }
 
+body {
+    background-size: cover;
+    background-position: 100% 0;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    min-height: 100vh;
+    animation: backgroundAnimation 20s linear infinite;
+}
+
+@keyframes backgroundAnimation {
+    0% {
+        background-image: linear-gradient(rgba(0,0,0,0), #bfd4ff), url('bg/waste.jpg');
+        background-position: 100% 75%;
+    }
+    25% {
+        background-image: linear-gradient(rgba(0,0,0,0), #bfd4ff), url('bg/rose.jpg');
+        background-position: 75% 50%;
+    }
+    50% {
+        background-image: linear-gradient(rgba(0,0,0,0), #bfd4ff), url('bg/green.jpg');
+        background-position: 25% 75%;
+    }
+    75% {
+        background-image: linear-gradient(rgba(0,0,0,0), #bfd4ff), url('bg/flower.jpg');
+        background-position: 50% 25%;
+    }
+    100% {
+        background-image: linear-gradient(rgba(0,0,0,0), #bfd4ff), url('bg/pile.jpg');
+        background-position: 0 75%;
+    }
+}
+
 
 /* Header styles */
 header {
@@ -110,6 +142,7 @@ header nav ul {
     max-width: 800px;
     margin: 100px auto; /* Center the container vertically */
     padding: 20px;
+    background-color: #eef3ed;
 }
 
 

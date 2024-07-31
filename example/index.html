@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Waste2Value</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Waste2Value</h1>
+        <div>
+            <label for="type">Type:</label>
+            <select id="type" onchange="filterCategories()">
+                <option value="">Select Type</option>
+            </select>
+        </div>
+        <div>
+            <label for="category">Category:</label>
+            <select id="category" onchange="filterSources()">
+                <option value="">Select Category</option>
+            </select>
+        </div>
+        <div>
+            <label for="source">Source:</label>
+            <select id="source" onchange="filterMaterials()">
+                <option value="">Select Source</option>
+            </select>
+        </div>
+        <div>
+            <label for="material">Material:</label>
+            <select id="material" onchange="showSubproducts()">
+                <option value="">Select Material</option>
+            </select>
+        </div>
+        <div>
+            <label for="subproducts">Subproducts:</label>
+            <div id="subproducts" class="result-box"></div>
+        </div>
+        <div>
+            <h2>Dashboard</h2>
+            <canvas id="categoryChart"></canvas>
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,21 +1,3 @@
-function setFormMessage(formElement, type, message) {
-    const messageElement = formElement.querySelector(".form__message");
-
-    messageElement.textContent = message;
-    messageElement.classList.remove("form__message--success", "form__message--error");
-    messageElement.classList.add(`form__message--${type}`);
-}
-
-function setInputError(inputElement, message) {
-    inputElement.classList.add("form__input--error");
-    inputElement.parentElement.querySelector(".form__input-error-message").textContent = message;
-}
-
-function clearInputError(inputElement) {
-    inputElement.classList.remove("form__input--error");
-    inputElement.parentElement.querySelector(".form__input-error-message").textContent = "";
-}
-
 document.addEventListener("DOMContentLoaded", () => {
     const loginForm = document.querySelector("#login");
     const createAccountForm = document.querySelector("#createAccount");
@@ -32,12 +14,68 @@ document.addEventListener("DOMContentLoaded", () => {
         createAccountForm.classList.add("form--hidden");
     });
 
-    loginForm.addEventListener("submit", e => {
+    loginForm.addEventListener("submit", async e => {
         e.preventDefault();
 
-        // Perform your AJAX/Fetch login
+        const email = loginForm.querySelector('input[name="email"]').value;
+        const password = loginForm.querySelector('input[name="password"]').value;
 
-        setFormMessage(loginForm, "error", "Invalid username/password combination");
+        try {
+            const response = await fetch('http://127.0.0.1:3001/login', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ email, password })
+            });
+
+            const result = await response.json();
+
+            if (response.ok) {
+                // Redirect to drop.html on successful login
+                window.location.href = '/Transformation/drop.html'; // Adjust path as necessary
+            } else {
+                setFormMessage(loginForm, "error", result.message || "Login failed");
+            }
+        } catch (err) {
+            setFormMessage(loginForm, "error", "An unexpected error occurred");
+        }
+    });
+
+    createAccountForm.addEventListener("submit", async e => {
+        e.preventDefault();
+
+        const username = createAccountForm.querySelector('input[name="username"]').value;
+        const email = createAccountForm.querySelector('input[name="email"]').value;
+        const password = createAccountForm.querySelector('input[name="password"]').value;
+        const confirmPassword = createAccountForm.querySelector('input[name="confirmPassword"]').value;
+
+        if (password !== confirmPassword) {
+            setFormMessage(createAccountForm, "error", "Passwords do not match");
+            return;
+        }
+
+        try {
+            const response = await fetch('http://127.0.0.1:3001/register', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ username, email, password })
+            });
+
+            const result = await response.json();
+
+            if (response.ok) {
+                alert('Registration successful! You can now log in.');
+                loginForm.classList.remove("form--hidden");
+                createAccountForm.classList.add("form--hidden");
+            } else {
+                setFormMessage(createAccountForm, "error", result.message || "Registration failed");
+            }
+        } catch (err) {
+            setFormMessage(createAccountForm, "error", "An unexpected error occurred");
+        }
     });
 
     document.querySelectorAll(".form__input").forEach(inputElement => {
@@ -53,4 +91,21 @@ document.addEventListener("DOMContentLoaded", () => {
     });
 });
 
+// Define these functions
+function setFormMessage(form, type, message) {
+    const formMessage = form.querySelector(".form__message");
+    formMessage.textContent = message;
+    formMessage.className = `form__message form__message--${type}`;
+}
 
+function setInputError(inputElement, message) {
+    const inputErrorMessage = inputElement.parentElement.querySelector(".form__input-error-message");
+    inputErrorMessage.textContent = message;
+    inputElement.classList.add("form__input--error");
+}
+
+function clearInputError(inputElement) {
+    const inputErrorMessage = inputElement.parentElement.querySelector(".form__input-error-message");
+    inputErrorMessage.textContent = "";
+    inputElement.classList.remove("form__input--error");
+}
