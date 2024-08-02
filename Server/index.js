@@ -150,6 +150,10 @@ app.get('/test', (req, res) => {
     res.status(200).json({ message: 'Server is working!' });
 });
 
+app.get('/', (req, res) => {
+    res.status(200).json({ message: 'Welcome to the Waste2Value Web App!' });
+});
+
 const PORT = 3001;
 app.listen(PORT, () => {
     console.log(`Server is running on port ${PORT}`);
