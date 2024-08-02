@@ -56,7 +56,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
 
         try {
-            const response = await fetch('hhttps://waste2value-web-app.onrender.com/register', {
+            const response = await fetch('https://waste2value-web-app.onrender.com/register', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json'
