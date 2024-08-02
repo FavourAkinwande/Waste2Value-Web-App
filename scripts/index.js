@@ -21,7 +21,7 @@ document.addEventListener("DOMContentLoaded", () => {
         const password = loginForm.querySelector('input[name="password"]').value;
 
         try {
-            const response = await fetch('http://127.0.0.1:3001/login', {
+            const response = await fetch('https://waste2value-web-app.onrender.com/login', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json'
@@ -56,7 +56,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
 
         try {
-            const response = await fetch('http://127.0.0.1:3001/register', {
+            const response = await fetch('hhttps://waste2value-web-app.onrender.com/register', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json'
