@@ -1,11 +1,13 @@
 
 **Waste2Value**
+
 Waste2Value is an innovative platform designed to address the global issue of food waste by transforming it into valuable products. This application educates and empowers individuals and businesses to view food waste not as a disposal problem but as a resource, offering practical tools and community engagement to promote sustainability.
 
 **Table of Contents**
-Features
-Installation
-Usage
+
+- Features
+- Installation
+- Usage
 API Endpoints
 Technologies Used
 Contributing
