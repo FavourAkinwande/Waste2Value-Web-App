@@ -1,6 +1,6 @@
 const express = require('express');
 const mongoose = require('mongoose');
-const bcrypt = require('bcrypt');
+const argon2 = require('argon2');
 const jwt = require('jsonwebtoken');
 const cors = require('cors');
 const crypto = require('crypto');
@@ -9,7 +9,6 @@ const path = require('path');
 require('dotenv').config(); // Import dotenv to use environment variables
 
 const app = express();
-const saltRounds = 10;
 
 // Use environment variables for secrets
 const JWT_SECRET = process.env.JWT_SECRET;
@@ -38,7 +37,7 @@ UserSchema.pre('save', async function (next) {
     if (!this.isModified('password')) return next();
 
     try {
-        const hashedPassword = await bcrypt.hash(this.password, saltRounds);
+        const hashedPassword = await argon2.hash(this.password);
         this.password = hashedPassword;
         next();
     } catch (err) {
@@ -108,7 +107,7 @@ app.post('/login', async (req, res) => {
             return res.status(400).json({ message: 'Please verify your email first' });
         }
 
-        const isMatch = await bcrypt.compare(password, user.password);
+        const isMatch = await argon2.verify(user.password, password);
 
         if (!isMatch) {
             console.log(`Invalid credentials for user with email ${email}`);
